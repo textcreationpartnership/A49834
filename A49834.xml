@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lay-man's religion humbly offerred as a help to a modest enquiry for every man into his own heart : both as being the only means to judge and save himself, and the best way to unite us all against our common enemies.</title>
+         </titleStmt>
+         <extent>Approx. 110KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49834</idno><idno type="EEBO-CITATION">12209979</idno>
+  <idno type="VID">56254</idno>
+  <idno type="EEBO-PROQUEST">2240935579</idno>
+  
+            <idno type="STC">Wing L749</idno>
+            <idno type="STC">ESTC R16277</idno>
+            <idno type="OCLC">12209979</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56254)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lay-man's religion humbly offerred as a help to a modest enquiry for every man into his own heart : both as being the only means to judge and save himself, and the best way to unite us all against our common enemies.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>2 pts.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Eliz. Holt for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pt. 2 (the appendix) lacking in filmed copy.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56254:1"/>
+            <p>THE <hi>Lay-Man's Religion:</hi> Humbly offered as a HELP to a MODEST ENQUIRY For every Man into his own Heart; both as being the only Means to judge and save himself, and the best way to unite us all against our Com<g ref="char:EOLhyphen"/>mon Enemies.</p>
+            <p>The Second Edition.</p>
+            <q>
+               <p>
+                  <bibl>Psal. <hi>16.2, 3.</hi>
+                  </bibl> O my Soul, thou hast said unto the Lord, my <hi>Goodness</hi> extendeth not unto thee: But unto the Saints which are in the Earth, and to the <hi>Excellent,</hi> in whom is all my delight.</p>
+               <p>
+                  <bibl>Psal. <hi>119.15.</hi>
+                  </bibl> Depart from me ye Evil-doers: for I will keep the Com<g ref="char:EOLhyphen"/>mandments of my God.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Eliz. Holt</hi> for <hi>Walter Kettilby,</hi> at the <hi>Bishop's-Head</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> in the Year 1690.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:56254:2"/>
+            <p>Licensed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>November</hi> 13. 1690.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:56254:2"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>AS our Divisions, Animosities, and Immoralities have arisen from uncharitable Censuring of one another; so nothing can heal or remove them, but impartial judging our selves, before we censure our Neighbour. <hi>Page 5.</hi>
+               </item>
+               <item>The pure Love of God, and a meek Spirit, have ever decayed with the increase of Knowledge, when 'tis not guarded with profound Humi<g ref="char:EOLhyphen"/>lity. <hi>ib.</hi>
+               </item>
+               <item>Inordinate pursuit of Ambition and worldly Design, is equally <hi>Moral Ido<g ref="char:EOLhyphen"/>latry</hi> with the same Sin, in sensual Pleasures, and lower Enjoy<g ref="char:EOLhyphen"/>ments. <hi>p. 6.</hi>
+               </item>
+               <item>To the end every Man may discover his own, we may distinguish our crying Sins, (the Cause of our Calamities) under Three Heads.
+<list>
+                     <item>
+                        <hi>1. Avarice,</hi> or <hi>Inordinate Love of the World.</hi>
+                     </item>
+                     <item>
+                        <hi>2. Debauchery,</hi> and <hi>Immorality.</hi>
+                     </item>
+                     <item>
+                        <hi>3. Ambition, Pride,</hi> and <hi>Worldly Design. p. 7.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>1. Self-Love</hi> the Fountain of all Evil. Love of our selves, inclines us to wish lower Enjoyments might not hinder Happiness hereafter, and to think Saints ought to rule, rather than Sinners. The Inconsistency between the love of God and Mammon. The true Cause why all our Com<g ref="char:EOLhyphen"/>forts here below, ebb and flow with the fading Nature of the Object of our Love. Real Happiness centres in God alone. <hi>p. 8.</hi>
+               </item>
+               <item>The wretched State of the covetous Worldling, whose God is of a perishing Nature. <hi>p. 11.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Of <hi>Debauchery</hi> and <hi>Immorality.</hi> ib.</item>
+               <item>Such as do not comply with outward Acts of Piety and Devotion, but give themselves up to Sensuality, ought not to be reckoned among Profes<g ref="char:EOLhyphen"/>sors. <hi>ib.</hi>
+               </item>
+               <item>Of the <hi>Drunkard,</hi> the profane <hi>Swearer,</hi> and the <hi>unclean Person;</hi> a brief Discourse of each, as of the worst of Men; uncapable of Trust, or Office in the Government; cannot be good Soldiers, as uncapable of true Courage, or good Conduct. <hi>p. 12, 13, 14.</hi>
+               </item>
+               <pb facs="tcp:56254:3"/>
+               <item>Of the Doctrine and Discipline of our <hi>National Church:</hi> The chief Cause and Continuance of <hi>Separation</hi> arises from Scandal of some of our Clergy, and Immorality of some of our Members, which is the Case of the Gospel it self: The Removal of this, the proper <hi>Medium</hi> of <hi>Uniformity. p. 15.</hi>
+               </item>
+               <item>Of the great Evil from bad Example of Magistrates, Parents, and Ma<g ref="char:EOLhyphen"/>sters of Families, and neglect in their Duty: The Ruine of Posterity threatned thereby. <hi>p. 16.</hi>
+               </item>
+               <item>Reformation of Manners (the only Cure) must begin in their own Pat<g ref="char:EOLhyphen"/>tern and Example. <hi>p. 18.</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> Of the great Danger and Evil of <hi>Ambition</hi> and <hi>Worldly Design,</hi> under the Vizor of <hi>Zeal for Reformation,</hi> and of <hi>Liberty of Con<g ref="char:EOLhyphen"/>science,</hi> and the Extent of it, as the Christians Birthright; and of the great abuse of it, by designing and ambitious Persons, who, under that Ʋmbrage, seek Dominion and Rule. <hi>p. 21.</hi>
+               </item>
+               <item>The Result of all, in a <hi>Modest Enquiry</hi> how far <hi>Separation,</hi> or <hi>In<g ref="char:EOLhyphen"/>dulgence</hi> hath wrought for the better. And the proper, and only <hi>Medi<g ref="char:EOLhyphen"/>um</hi> of our Healing and Cure propounded, enforced by Arguments from the greatest Examples and Instances. <hi>p. 24.</hi>
+               </item>
+               <item>How the <hi>ill Managery</hi> of the <hi>Tongue,</hi> or the <hi>bad Husbandry</hi> of our <hi>Time,</hi> will render all <hi>Religion vain. p. 32.</hi>
+               </item>
+               <item>The Author's Apology in a Post-script.</item>
+            </list>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:56254:3"/>
+            <head>The Author's Humble <hi>Dedication, Ap<g ref="char:EOLhyphen"/>peal,</hi> and <hi>Address.</hi>
+            </head>
+            <p>
+               <hi>O</hi> Most Gracious God, the Creator and Susteiner of all things, Thou alone art the Fountain of <hi>Being</hi> and <hi>Happiness,</hi> to whom all things are eternally known, and from whom no secret can be hid; thou callest the things that are not, as if they were; and by the weakest means, canst effect thy greatest Designs. Lord, thou knowest my aim and end in these my weak Endeavours, and the Motives from whence I have made them publick: How earnestly I have laboured (since, through thy Grace I have turned my back on Folly) after a satisfactory Rest to my anxious Mind. And how unwearied I have been by an impar<g ref="char:EOLhyphen"/>tial Enquiry into the various ways of Religious Worship, which (though but Shadows in Religion) are so much insisted upon by Men of different Persuasions, to cause Separation from our National Communion: In which (if I understand it right) no more stress is laid on any Rite or Ceremony, than Decency and Order do require.</p>
+            <p>O my God, thou who art the searcher of Hearts, and by thine all-seeing Eye (as in open day) thou discerns the most secret De<g ref="char:EOLhyphen"/>signs of Men; thou knowest what ill use hath been made of these Fig-leaves of <hi>external Profession,</hi> by <hi>subtil</hi> and <hi>designing</hi> Persons, under pretence of <hi>Liberty of Conscience,</hi> and <hi>Zeal for Reformation,</hi> to separate from our Publick Established Discipline into a pretended <hi>purer Worship,</hi> thereby to impose upon, and misguide the most sincere, and well meaning Chri<g ref="char:EOLhyphen"/>stians, to implant themselves into separate and gathered Churches, (as into a more secure Ark of Salvation) only to serve their own Turns, and to promote their own private In<g ref="char:EOLhyphen"/>terest in their Worldly Design; from whence our unhappy Di<g ref="char:EOLhyphen"/>visions
+<pb facs="tcp:56254:4"/> have arisen, and Sects like Locusts have encreased, to the great scandal and Offence of such as are willing to do, or suffer any thing to be safe, and to the hindring many others from returning, who might have continued holy and happy Pillars in our Publick Communion, to the Advancement of thy Glory, in the Harmony and Tranquillity of the whole Kingdom.</p>
+            <p>I do most humbly acknowledge thy infinite Goodness towards me, for the gracious guidance of thy Spirit, in disposing my Heart, when I had examined and enquired into all other Persua<g ref="char:EOLhyphen"/>sions, then to fix and join in that Communion, where I am fully persuaded I may serve thee most acceptably, agreeable to thine own revealed Will, and where I may most benefit my Fellow-Creatures, to my Comfort here, in order to my eter<g ref="char:EOLhyphen"/>nal Felicity.</p>
+            <p>O my God, thou knowest how I have endeavoured in the Simplicity of my Heart, to make known to others, what thou hast in Mercy discovered to me, and done for me, in sparing me as a Monument of thy Mercy, and a Miracle of the Age I live in; having no other Cause to assign why I survive my Com<g ref="char:EOLhyphen"/>panions in Evil, but that I should at my Peril explode that unmanning Sin of <hi>Drunkenness</hi> and <hi>Intemperance,</hi> and warn <hi>all others</hi> to shun, hate, and forsake it, as the <hi>Parent</hi> and <hi>Nurse</hi> of <hi>Vice, Immorality</hi> and <hi>Debauchery,</hi> the <hi>monstrous Bane</hi> of <hi>Humanity,</hi> and <hi>blast</hi> of all <hi>Religion;</hi> as it eclipses <hi>Reason,</hi> (the Sun in Man's little World,) rendring <hi>Men below Brutes, careless</hi> and <hi>senseless</hi> of their <hi>Duty</hi> to <hi>Thee,</hi> their <hi>Fellow-Creatures,</hi> and <hi>themselves;</hi> bold and daring in <hi>bare-faced Impiety,</hi> more <hi>barbarous and cruel than Tygers to their own Flesh and Blood;</hi> and in the dreadful Consequence, without Repentance, <hi>Butchers</hi> and <hi>Murtherers</hi> of their own <hi>Souls,</hi> as well as of their <hi>Posterity.</hi>
+            </p>
+            <p>O Lord, in Mercy behold this sinful, divided, and distracted Kingdom; and by thine Almighty Power, put a stop to that spreading <hi>Hypocrisie, Atheism,</hi> and <hi>Immorality,</hi> which every where abounds among us. Encrease the number of holy, lear<g ref="char:EOLhyphen"/>ned,
+<pb facs="tcp:56254:4"/> and painful Pastors in this our National Church; and in thy gracious Wisdom, over-rule, order, and dispose the Minds of all that are fitly qualified for that high and holy Cal<g ref="char:EOLhyphen"/>ling, that they may join in that Communion, as the surest and tri<g ref="char:EOLhyphen"/>ed Bulwark against Popery, the best Prop and Support of our Mo<g ref="char:EOLhyphen"/>narchical Government; and which (whilst it continued at Ʋnity, and in Harmony of Worship) was the Beauty and Glory of the Reformation, and the Sanctuary for all distressed Protestants. Woe be to those subtil Foxes (the Jesuit and Sectary) that have been so long endeavouring to undermine and supplant it, in poisoning it with Error and false Doctrine; and pulling down its Fenc<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, to make may for the wild Boar, the practical Atheists and Debauchee, to root up, and choak all its sacred Seeds with Profaness and Sensuality.</p>
+            <p>Awaken, and convince (O Lord) all scandalous, ignorant, and slothful Clergy, and all profane, and vitious Magistrates, and Members of our Communion, with a dreadful apprehension of the Woes pronounced against all that cause such Offences, whereby thy ways are evil spoken of, and our holy and pure Religion reproached and despised by our Enemies round a<g ref="char:EOLhyphen"/>bout us.</p>
+            <p>O Lord, I beseech thee (so far as it consists with thy Ho<g ref="char:EOLhyphen"/>ly Will) prosper, and succeed my honest Design in this Work: Open the Eyes, and undeceive all those, who agree our Do<g ref="char:EOLhyphen"/>ctrine (the Substance in our Established Religion) to be pure, and yet do separate from it into so many different Persuasions, (the Shell and Shadows of Religion,) to increase our Heats and Divisions, and lay us open (as a Prey) to our Enemies. Do thou, O Lord, by thine own over-ruling Grace, encline and dispose them, to return into the bosom of this our Church, that by <hi>good Living</hi> in one Communion, we may all win, and work one upon another, by brotherly Kindness and watchful Love, as the most likely means to heal all our Divisions, and to effect an universal Reformation among us, by restoring that <hi>Piety, Sobriety,</hi> and <hi>Righteousness</hi> in Christian Charity, and Harmony of Divine Worship, which for so many years kept up a
+<pb facs="tcp:56254:5"/> venerable Awe of thy Holy Majesty in the Minds of Men, and rendered Religion amiable in this Kingdom.</p>
+            <p>O blessed Redeemer, thine own Pattern, whilst thou didst converse with Men, is the fairest Copy we can write after, and thine own Precepts and Counsels, our surest Guide and Instru<g ref="char:EOLhyphen"/>ction: Thou didst both teach and practise <hi>Meekness, Humi<g ref="char:EOLhyphen"/>lity,</hi> and <hi>Self-denial,</hi> as the surest Touch-stone of thy true Religion; and pure, and unmercenary, and impartial Love, and tender Compassion, towards all that bore the Aspect of Humanity. Thou hast made the knowledge of our Duty easie and plain, to all that will hear thy Voice, and attend to thy Teaching, though subtil Deceivers (for Worldly Design) la<g ref="char:EOLhyphen"/>bour to render it dark and difficult: But both the Deceivers, and the (willingly) deceived, shall one day justifie thee as righteous in their Condemnation, that if they perish, it is be<g ref="char:EOLhyphen"/>cause they would not, and not because they could not cross and resist their own corrupt Will, to comply with thy Holy Will, ac<g ref="char:EOLhyphen"/>cording to what they knew, or might have known, in order to their own Happiness.</p>
+            <p>Grant, O thou Conductor of Souls, that we may all, through thy Grace, steer our whole Christian Course, by this thine own unerring Compass of Truth, between the two Extremes of <hi>Pride, Ambition,</hi> and <hi>Worldly Design,</hi> and <hi>Atheism, Debau<g ref="char:EOLhyphen"/>chery</hi> and <hi>Immorality,</hi> through <hi>Jesus Christ our Lord;</hi> to whom with thy <hi>Holy Majesty</hi> and blessed <hi>Spirit, Three Glo<g ref="char:EOLhyphen"/>rious Relations</hi> in one <hi>God,</hi> be Glory and Praise for ever.</p>
+            <closer>Amen.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:56254:5"/>
+            <head>THE LAY-MAN's RELIGION, In an affectionate <hi>Epistle</hi> to all <hi>Mankind.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <p>
+                     <bibl>Psal. <hi>30.3.</hi>
+                     </bibl> O Lord, thou hast brought up my soul from the <hi>Grave:</hi> thou hast kept me alive, that I should not go down to the Pit.</p>
+                  <p>
+                     <bibl>
+                        <hi>Psal. 6.16.</hi>
+                     </bibl> Come and hear all ye that fear God, and I will declare what he hath done for my soul.</p>
+               </q>
+            </epigraph>
+            <p>AS there is nothing hath more occasioned, and increased our Heats, Divisions and Animosities, than the rash and un<g ref="char:EOLhyphen"/>charitable Censures, which Men of differing Persuasions are apt to pass one upon another, to the great scandal of Religion, and encouragement of Debauchery and Immorality: So nothing in the World can sooner heal our Breaches, reform our Manners, and unite us all among our selves, than an impartial Scrutiny by every Man into his own Heart and Life; so as first to give Sentence at home upon himself, before he adventures to censure or judge his Neighbour.</p>
+            <p>It is a manifest Truth (but a lamentable one,) That as <hi>the pure Love of God,</hi> and <hi>a meek Spirit</hi> have, ever since Man's Fall, de<g ref="char:EOLhyphen"/>cayed with the increase of Knowledge in the generality of Mankind; great Knowledge not guarded with profound Hu<g ref="char:EOLhyphen"/>mility, rendering Man but more like the Devil: So from the beginning of Christianity, <hi>Pride</hi> and <hi>Self-love</hi> have always in a gradual Course jostled out <hi>Truth</hi> and <hi>Goodness</hi> where-ever it hath been planted, and turned the vital part of Religion into <hi>Sophistry</hi> and <hi>Dispute,</hi> which begets Quarrels in Professors about <hi>Shadows</hi> and <hi>Circumstantials,</hi> whilst they neglect the Substance in good Li<g ref="char:EOLhyphen"/>ving, thereby banishing <hi>Christian Charity,</hi> to make way for <hi>Interest</hi> and worldly Design, though under a specious Vizor of <hi>Zeal</hi> for <hi>Reformation.</hi>
+            </p>
+            <p>Now as we all agree, 'tis more easie to know than practise; so we must all allow, that when Men's Actions run counter to their Words, (though never so charming,) it renders their Advice (in a great measure) ineffectual to others, because they do not follow
+<pb n="6" facs="tcp:56254:6"/> it themselves. This made St. <hi>Paul</hi> so careful of himself, lest while he was preaching to others, he might become a Cast-away. And that others might doe so too, he left as a standing Rule, his Advice to all, to have a peculiar regard to their own inbred, and habitual Evil, as that Clog which hinders us all in our Christian Course. <hi>Let us</hi> (saith he) <hi>lay aside every weight,</hi>
+               <note place="margin">Heb. 12.1.</note>
+               <hi>and the Sin which doth so easily beset us,</hi> that we may the better run our Race after our Redeemer's Pattern.</p>
+            <p>By God's Grace, I am a Witness from my own Experience of this sad Truth, having been a Spectator of the many Revolutions of late among us, and one of the greatest Instances of the Divine Goodness the present Age affords, for this very end, that I should hang out my Experience, for a Light to warn others from farther adventuring, either in a false Persuasion of Religion to secular ends, or in the Practice of any known Sin: And therefore,</p>
+            <p>I have here adventured to publish my weak Endeavours (as a <hi>Lay<g ref="char:EOLhyphen"/>man's Religion</hi>) to awaken and quicken all others, whether Professors, or Profane, to leave off all farther pursuit of Shadows, and to em<g ref="char:EOLhyphen"/>brace the<note n="*" place="margin">
+                  <hi>O Vitae Phi<g ref="char:EOLhyphen"/>losophia Dux O Virtutum Indagatrix vitiorum{que} Expultrix! unus dies benè &amp; ex praecep<g ref="char:EOLhyphen"/>tis tuis actus, Mille in pec<g ref="char:EOLhyphen"/>cato actis die<g ref="char:EOLhyphen"/>bus est ante po<g ref="char:EOLhyphen"/>nendus,</hi> Cic. Who would not be Reli<g ref="char:EOLhyphen"/>gious, were he once convinced that true <hi>Plea<g ref="char:EOLhyphen"/>sure,</hi> and real <hi>Happiness</hi> (which all de<g ref="char:EOLhyphen"/>sire) are alone to be found in a <hi>pious, sober</hi> and <hi>vertuous</hi> Life. O thou only <hi>Paradise</hi> on Earth! well might the ho<g ref="char:EOLhyphen"/>ly Prophet so<g ref="char:EOLhyphen"/>lemnly avouch <hi>One day in thy Courts, is bet<g ref="char:EOLhyphen"/>ter than a thousand else<g ref="char:EOLhyphen"/>where,</hi> Psal. 84.10.</note> real Substance, that both may forsake their Idols, and return to God, from whence all such are fallen.</p>
+            <p>For though the Object of Men's <hi>Love</hi> and <hi>Delight</hi> may be diffe<g ref="char:EOLhyphen"/>rent, as the one is in extreme opposite to the other, according to their different Inclination and natural Dispositions; yet both are equally guilty of Moral Idolatry, as the one pursues inordinate Am<g ref="char:EOLhyphen"/>bition, and worldly Design, and the other sensual Pleasures, or lower Enjoyments; both equally robbing God of that <hi>Love, Com<g ref="char:EOLhyphen"/>placency,</hi> and <hi>Delight,</hi> which we all owe him, as the Fountain of Good, and supreme Author of our Being.</p>
+            <div type="part">
+               <head>This I shall endeavour to demonstrate in the following Discourse.</head>
+               <p>THE primary Cause of all our Evils is Sin; and to find out this Truth, we must trace it to its Original, in our first Parents Disobedience; whose Foot-steps we now tread in, when we sin after the Similitude of their Transgression, (that is) against Know<g ref="char:EOLhyphen"/>ledge and Means. Their Sin was Disobedience to their known Duty, in dis-believing Truth it self, and giving Credit to the Fa<g ref="char:EOLhyphen"/>ther of Lies; forsaking God the Fountain of Good, to seek their Happiness in the Creature; by which they, and all their Posterity for ever lost Paradise in this World, and all Right and Property (farther than as Stewards accountable) in all we possess here below.</p>
+               <pb n="7" facs="tcp:56254:6"/>
+               <p>This is a Truth owned by all, but such as are Strangers to God and themselves; and which none can deny, but such as are wilfully ignorant of God's revealed Will in the Scriptures, and unacquain<g ref="char:EOLhyphen"/>ted with their own inward Frame, the proper Schools for this Dis<g ref="char:EOLhyphen"/>cipline.</p>
+               <p>For God hath placed in every Man's Breast the flaming Sword of Reason and Conscience, to hinder his inordinate pursuit of Happi<g ref="char:EOLhyphen"/>ness here below, and to chase him out of all hope of ever returning back to his earthly Paradise, or finding any real Satisfaction for that infinite Principle of Love and Desire (which is the Radical Affection of his Nature) in these lower Enjoyments.</p>
+               <p>So that the Disorder we feel within us, and all the external Mi<g ref="char:EOLhyphen"/>sery that befals us from the Creatures (as Instruments of God's Ju<g ref="char:EOLhyphen"/>stice) without us, are but the effects of our Disobedience; and in Love designed for our Correction, to awaken us out of our sensual Security, and cause us to<note n="*" place="margin">
+                     <hi>Conversion</hi> is nothing else but <hi>ceasing to do evil,</hi> by thus <hi>turning</hi> from <hi>Satan</hi> to <hi>God</hi> in newness of Life. Which in its effect, is <hi>Repentance</hi> from dead works; and <hi>Saving Faith</hi> is when we do both, from a firm Belief o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> God's Truth in his <hi>Threat<g ref="char:EOLhyphen"/>nings</hi> agains<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Sin,</hi> and in hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>Promises</hi> to reward <hi>Obe<g ref="char:EOLhyphen"/>dience,</hi> so a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> from thence t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> purifie our selves for his Service here, i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> order to par<g ref="char:EOLhyphen"/>take of his Glo<g ref="char:EOLunhyphen"/>ry hereafter.</note> return from pursuit of Vanity in the Crea<g ref="char:EOLhyphen"/>ture, to God the Fountain of Happiness from whence we fell.</p>
+               <p>Now forasmuch as all Mankind (since the Fall) are naturally blind to themselves, and partial in judging of God's Dealings with them, ever willing to excuse themselves: And as they follow their first Parents Steps in Rebellion; so when they suffer, are too apt (with them) to transfer the blame on others; <hi>The Woman thou ga<g ref="char:EOLhyphen"/>vest me,</hi> cries <hi>Adam;</hi> and when she was charged, <hi>The Serpent beguiled me,</hi> was her Evasion. And so to lay the Cause of all our Misery at some other Door; which is in effect, to throw back all on God, as if he caused what he doth not prevent.</p>
+               <p>I shall endeavour briefly here to demonstrate, that every Man, (Saint or Sinner, <hi>Pharisee</hi> or <hi>Publican,</hi>) of what Persuasion soever he be, that doth not first look home into his own Heart, so as seri<g ref="char:EOLhyphen"/>ously to consider his own Ways, and judge himself, doth still share in the procuring Cause, which hath brought all these Evils up<g ref="char:EOLhyphen"/>on us.</p>
+               <p>And that I may convince every Man of the Truth of this, I shall endeavour briefly to shew what are those crying Sins that have cau<g ref="char:EOLhyphen"/>sed all those Judgments (which we either feel or fear,) that every man may the better judge himself how far he stands guilty before God and his own Conscience therein. And those Sins may be com<g ref="char:EOLhyphen"/>prehended under these Three Heads.</p>
+               <list>
+                  <item>I. <hi>Avarice;</hi> or, an inordinate Pursuit of <hi>Mammon.</hi>
+                  </item>
+                  <item>II. <hi>Debauchery</hi> and <hi>Immorality.</hi>
+                  </item>
+                  <item>III. <hi>Ambition, Pride,</hi> and <hi>Worldly Design.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="1" type="item">
+               <pb n="8" facs="tcp:56254:7"/>
+               <head>I shall begin with <hi>Self-Love,</hi> the Fountain of all Evil, as that which includes all the rest; and in the first place discourse of <hi>Avarice,</hi> or <hi>Inordinate Love of the World.</hi>
+               </head>
+               <p>WEre I possess'd of the whole World, or the greatest share in it, I should be happy or miserable only, according to the <hi>good</hi> or <hi>ill</hi> Use I made of all I possess'd. It has been the great mistake of many wise Men in all Ages, to account them<g ref="char:EOLhyphen"/>selves <hi>Proprietors</hi> of what <hi>God</hi> consigns to them in <hi>Trust,</hi> as <hi>Stewards</hi> only, for the Good of the great Family of Mankind, whether it be <hi>Riches, Honours, Power,</hi> or <hi>Endowments of the Mind:</hi> And when Men thus esteem all they possess their own, they assume to them<g ref="char:EOLhyphen"/>selves God's Title therein, and from thence naturally draw this Inference, That <hi>they may do with their own what they please;</hi> either keep their Wealth locked up in a Chest, or lay it out according to their own Humour and Fancy; in building a delightful Palace, and pulling it down, when they have done; in the purchase of empty Titles of Honour; or in prodigally treating and obliging the Grandees of the World; or lavishly consuming it in <hi>Luxury</hi> and <hi>Sensuality.</hi>
+               </p>
+               <p>And being thus miserably mistaken in their Reckonings, they value themselves by the abundance they possess, not considering that their great Revenue, as well as their Health, Time, and Op<g ref="char:EOLhyphen"/>portunities increase their Care, as <hi>Talents</hi> of which they must give a strict Accompt; and as they hoarded up, or sacrificed them to their vain Glory, or Pleasure in their Life-time; so, when they die, (still reckoning all their own) they usually dispose of what they have left to others, who being equally Slaves to their own Pas<g ref="char:EOLhyphen"/>sions, either follow the same foot-steps of immoderate scraping toge<g ref="char:EOLhyphen"/>ther, or else prove as great Vassals to the like inordinate Desires in scattering, as they (that went before) were in gathering, (for in both, <hi>Mammon</hi> is the commanding Power or Deity,) each seeking that Satisfaction from the finite Enjoyments of this World, (where<g ref="char:EOLhyphen"/>in the Shadow only of the Divine Excellency is scattered,) which can be no where found below God himself, the Fountain and Original of all Perfection; who, like the beloved Pole to its Needle, can alone give rest to Man's boundless and immortal Ap<g ref="char:EOLhyphen"/>petite.</p>
+               <p>Thus have I known great Estates gotten and spent within the compass of my own Memory; as the one from a small beginning rolled together his Mole-hill of Wealth, so nothing remains of his prodigal Successor's, save only this infallible Truth, That both <hi>la<g ref="char:EOLhyphen"/>boured in vain for satisfaction in that which cannot satisfie.</hi>
+               </p>
+               <pb n="9" facs="tcp:56254:7"/>
+               <p>It is easie to know these Trhths, but only difficult for such to pra<g ref="char:EOLhyphen"/>ctise, who have not yet throughly learned that (seeming hard) Les<g ref="char:EOLhyphen"/>son of <hi>Self-denial,</hi> and the <hi>Cross,</hi> the first terrible Blow to Flesh and Blood, and Touch-stone of true Religion; which our Saviour makes an Indispensable requisite to the very Being of his Disciples, though it seems <hi>an hard Saying</hi> to them that have not so learned Christ.</p>
+               <p>Our <hi>Love to our selves</hi> easily inclines us to believe, (at least, to wish in our Hearts,) That the Happiness and Glory of the World to come, might consist with a full Enjoyment of our Portion also in this Life; which renders all those Doctrines so pleasing and agree<g ref="char:EOLhyphen"/>able, that do allow Saints a greater Right than Sinners in the Riches, Dominion and Government of the World, though this be quite con<g ref="char:EOLhyphen"/>trary to what our Saviour himself taught, when he declared the Love and Service of <hi>God</hi> and <hi>Mammon</hi> (or the World) to be incon<g ref="char:EOLhyphen"/>sistent in one and the same <hi>Worshipper,</hi> as irreconcileable as <hi>Heaven</hi> and <hi>Hell,</hi> for that the one is in direct opposition to the other. Our <hi>Love</hi> to <hi>God</hi> aspires upwards, towards him, as the <hi>Centre</hi> of our <hi>Rest,</hi> and the only <hi>Happiness</hi> our Souls do thirst after: Our <hi>Love</hi> of <hi>Mammon</hi> (or the World) is groveling downwards to the Earth, and always <hi>centres</hi> in <hi>our selves,</hi> but never quiet; insatiably <hi>desiring,</hi> though never <hi>satisfied.</hi> For our <hi>Soul</hi> is an <hi>eternal Principle,</hi> and can<g ref="char:EOLhyphen"/>not feed on <hi>fading Enjoyments: Goodness</hi> it self is her proper <hi>Food,</hi> of which all the <hi>World</hi> is but a faint <hi>Shadow.</hi> The <hi>Love</hi> of <hi>Mammon</hi> craves <hi>sensible Good;</hi>
+                  <note place="margin">Psal. 4.6, 7.</note> but the <hi>Love</hi> of <hi>God</hi> begs rather <hi>the Light of his Countenance.</hi>
+               </p>
+               <p>This is the Reason why all our Comforts in these lower Enjoy<g ref="char:EOLhyphen"/>ments are never certain, but do ever ebb and flow, according to the fading Nature of the Object wherein we seek our Happiness, (whether it be <hi>Riches, Honours,</hi> or <hi>Pleasures;</hi>) all which, like Weeds, that seem Flowers to Sense, yield nothing but Emptiness and Vani<g ref="char:EOLhyphen"/>ty to the Mind, and do always end in Vexation of Spirit. Which is a plain Demonstration, that it is impossible for the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul of Man to find true Rest or Satisfaction in this outward World, till she return (by inward retiring of the Mind) <hi>home to God, from whom she first fell,</hi> as the living Fountain of <hi>Good.</hi> How pathetically does <hi>David</hi> bear witness to this Truth, by his own inward▪ Experience in <hi>Psal.</hi> 63. <hi>O God, thou art my God, early will I seek thee: My Soul thirsteth for thee, my Flesh longeth for thee, in a dry and thirsty Land, where no Water is, to see thy Power and thy</hi>
+                  <note n="*" place="margin">By this <hi>ex<g ref="char:EOLhyphen"/>ternal Glory <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n the Sanct<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y,</hi> we are now to understand the <hi>Internal Beauty of Holiness,</hi> which, by intellectual View, we <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hold from our Contemplation in the inward Temple of our Mind; reflecting on the Purity of God's Worship, in the Assembly of his Saints.</note>
+                  <hi>Glory, so as I have seen thee in the Sanctua<g ref="char:EOLhyphen"/>ry: Because thy Loving Kindness is better than Life, my Lips shall praise
+<pb n="10" facs="tcp:56254:8"/> thee: Thus will I bless thee while I live, and will lift up my hands in thy Name: My Soul shall be satisfied, as with Marrow and Fatness; and my Mouth shall praise thee with joyful Lips, when I remember thee on my Bed, and meditate on thee in the Night-Watches; because thou hast been my Help; therefore in the Shadow of thy Wings will I rejoyce.</hi>
+               </p>
+               <p>Now, forasmuch as such an holy Frame of Spirit is purely wrought by God's Grace, so it is our Duty in an humble manner to pray for it; and God, who is faithful in all, hath promised to bestow it on them that diligently and sincerely seek it.</p>
+               <p>And I wish every Member of private Congregations, who are so apt to be puffed up with an over-weening Conceipt of their own Ability, as to think themselves above all set Forms of Prayer, were so convinced of their own Ignorance and Weakness, as to make use of this one <hi>Collect</hi> in our <hi>Church-Liturgy,</hi> for their Ease and Help herein.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <p>
+                              <hi>O</hi> Almighty God, who alone canst order the unruly Wills and Affe<g ref="char:EOLhyphen"/>ctions of sinful Men, Grant unto thy People, that they may love the thing which thou dost command, and desire that which thou dost pro<g ref="char:EOLhyphen"/>mise; that so, among the sundry and manifold Changes of this World, our Hearts may surely there be fixed, where true Joys are to be found; through Jesus Christ our Lord.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>To which I shall subjoyn but this one short Prayer, as another part of the same <hi>Liturgy;</hi> which here followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <p>ALmighty God, unto whom all Hearts be open, and all Desires known, and from whom no Secrets are hid; cleanse the Thoughts of our Hearts by the Inspiration of thy Holy Spirit, that we may <hi>perfectly love thee,</hi> and worthily magnifie thy holy Name; through Christ our Lord, </p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>And now I have mention'd the <hi>Liturgy,</hi> I humbly appeal to all cha<g ref="char:EOLhyphen"/>ritable and well-disposed Followers of the blessed Redeemer, (who have tried and examined it,) whether this plain and brief Form may not suit with the Capacity and Disposition of the most Learned, and least Knowing; the Pharisee, and the Publican; the soundest Belie<g ref="char:EOLhyphen"/>ver, and the most scrupulous and tender Conscience; so as they may all join together in their publick Devotion.</p>
+               <p>And whether there be in any other way of Worship, a Standard more agreeable to the Frame and Faculties of Man's Mind, than in our Liturgy established among us, so as by frequent and solemn assembling themselves together, they may thereby provoke, en<g ref="char:EOLhyphen"/>courage, and dispose one another to Union of Heart, and Harmony
+<pb n="11" facs="tcp:56254:8"/> in Divine Worship, as the highest Happiness attainable (in Com<g ref="char:EOLhyphen"/>mon) among Christians in this World; though for a time the Case may be the same with them, as it was with me, and many others, to have an aversion to it, from the Misrepresentation of others, or want of a right apprehension of some things contained in it. But to return:</p>
+               <p>How miserable a Creature then is the <hi>Covetous Worldling,</hi> who so little troubles himself with the things of Religion, or the World to come, that he feels no other <hi>Hunger</hi> or <hi>Thirst,</hi> but after <hi>Mammon,</hi> or this World; being so possessed with the Love of it, that he hath no room left in his Heart for Love of any thing besides? And whilst he labours under the <hi>Tyranny</hi> of an <hi>insatiable Desire</hi> of more, he feels no Comfort in all that he doth enjoy, though he hugs his <hi>Mammon</hi> as his only God and Portion, the Object of all his Thoughts, Love, and Delight, till his Soul be ravish'd from him; leaving his <hi>Body</hi> and <hi>Mammon</hi> to perish together.</p>
+               <p>And this is the first sort of crying Sins, arising from <hi>Self-Love,</hi> or <hi>Moral Idolatry,</hi> in such as seek Heaven and Happiness in <hi>Mam<g ref="char:EOLhyphen"/>mon</hi> here below, judging and censuring all others but themselves.</p>
+            </div>
+            <div n="2" type="item">
+               <head>I shall now proceed to speak of the Second; which is, <hi>Debauchery</hi> and <hi>Immorality.</hi>
+               </head>
+               <p>AND as for such as have given themselves up to <hi>Sensuality</hi> and <hi>Debauchery,</hi> so as not to wait upon the Posts of Wisdom's Doors, in a conscientious and sober Use of the Means; as, Rea<g ref="char:EOLhyphen"/>ding, Hearing, Praying, conversing with themselves alone, and with good Men, in order to be reformed; but are so far from desi<g ref="char:EOLhyphen"/>ring or endeavouring to be reclaimed, that they are rather ready to offer violence to sober Reproof, and to deride and scoff at all Advice and good Counsel: I say, such as these, who are too apt to name themselves Sons of the Church, ought not to be reckon'd among Professors, (though our Adversaries most uncharitably or designedly father too many of them upon us,) because they do not own God's Livery in any visible Acts of Piety and Devotion; but having de<g ref="char:EOLhyphen"/>sperately shut their Eyes, and hardned their Hearts, do by their wilful Rebellion declare themselves Enemies to God and all Reli<g ref="char:EOLhyphen"/>gion: And that such as these have been both the Cause, and In<g ref="char:EOLhyphen"/>struments to bring God's Judgments upon us, none can doubt; though they all, as haters of God and Goodness, are ever apt to vent
+<pb n="12" facs="tcp:56254:9"/> their Fury and Malice (when God's Hand is upon them) against the most righteous and innocent Persons.</p>
+               <p>And I shall address my self to them, as they distinguish them<g ref="char:EOLhyphen"/>selves by their crying Abominations; and name but Three for all the rest.</p>
+               <p n="1">1. In that unmanning and brutish Sin of <hi>Drunkenness,</hi> the <hi>Parent</hi> and <hi>Nurse</hi> of many other Sins, as it puts out the Lamp of <hi>Reason,</hi> Man's healthful Guide unto all <hi>vertuous</hi> Actions, and safe Pilot to shun <hi>Vice.</hi> This Sin disposes Men to all that may be called wicked, to betray their <hi>Prince,</hi> their <hi>Religion,</hi> their <hi>Country,</hi> and all to serve their Lusts; for he that has abandon'd his <hi>Reason,</hi> and lost all <hi>Sense</hi> of <hi>Honour</hi> and <hi>Shame,</hi> is false to his own Soul, and can never be true to any thing else.</p>
+               <p>Nor is that Man's Crime less, whose Body and Brain can bear most: Nay, the Scripture pronounces the greatest <hi>Woe</hi> against the <hi>Mighty Drinker,</hi> as a Murtherer of his Brethren, by provoking them beyond their strength, to bear an equal part with him, in a most impious Abuse of God's Creatures. In which servile Drudgery of Sin and Satan, he is a kind of <hi>Felo de se;</hi> he <hi>consumes his Time and Patrimony, his Parts, his Body and Soul, and so falls at last a Sacrifice to the Sin that he loves above all these, nay, above God himself.</hi>
+               </p>
+               <p n="2">2. The <hi>profane Swearer,</hi> who so cheaply sells his Soul to the De<g ref="char:EOLhyphen"/>vil, for neither Pleasure, Honour, nor Profit, the three Shadows of Good, wherewith he baits his Hook to incline Men to all other Sins besides, is surely the worst sort of Prodigal in the World.</p>
+               <p>What Words can utter his prodigious Folly, and daring Impie<g ref="char:EOLhyphen"/>ty, who with bloody Oaths calls for Damnation without ceasing, (when he is already under the Sentence,) as if he scorned the least moment to prepare for his Execution?</p>
+               <p>Such a <hi>desperate Caitiff</hi> had need go to <hi>Tyburn</hi> to learn Discipline of those miserable Criminals; who, though they have been all their Life unmindful of their latter end, being now sensible their Time is limited by Man, (and may be sooner determined by God,) would make any Terms of better Obedience, if they might have but a time of Trial.</p>
+               <p>Certainly were not Men grown past feeling by long practice, they might tremble to think, that the same God who, in terrible Thunder, published Man's Duty in <hi>Mount Sinai</hi> in Ten Precepts, made no difference between the <hi>Thief,</hi> the <hi>Murtherer,</hi> and the <hi>Swea<g ref="char:EOLhyphen"/>rer:</hi> How desperate then is the <hi>common Swearer,</hi> who can abstain from <hi>Robbing,</hi> and <hi>Killing,</hi> for fear of being <hi>hanged</hi> by the Law of Man; yet dares blaspheme the living God, the Law-giver of Hea<g ref="char:EOLhyphen"/>ven
+<pb n="13" facs="tcp:56254:9"/> and Earth, and stab his Redeemer with <hi>bloody Oaths,</hi> though he be already sentenced (without Repentance) in Body and Soul un<g ref="char:EOLhyphen"/>to <hi>Hell-fire.</hi>
+               </p>
+               <p n="3">3. The <hi>Ʋnclean Person,</hi> especially he that glories in his Shame; how wretchedly does he cheat himself in the <hi>Object of his Love,</hi> when he forsakes his <hi>God,</hi> the Fountain of his Being, and the most <hi>amiable satisfying Good,</hi> in exchange for a sordid and insatiable <hi>Dust;</hi> trans<g ref="char:EOLhyphen"/>forming himself into a lascivious Goat, to hug and caress the poiso<g ref="char:EOLhyphen"/>ned Carcase of his filthy Hag in loathsome Embraces; wallowing in the polluted Mire of impure and unchaste Thoughts, till his Mind become the Den of Satan, and a Cage of unclean Birds.</p>
+               <p>Well might <hi>Solomon</hi> denominate the <hi>Saint</hi> and <hi>Sinner,</hi> by the Cha<g ref="char:EOLhyphen"/>racter of a <hi>Wise Man,</hi> and of a <hi>Fool,</hi> without any other Note of Di<g ref="char:EOLhyphen"/>stinction. How can he be accounted wise, that refuses Counsel, and hates Knowledge? How can you be Christians indeed, when by your Lives and Language you proclaim your selves your Redeemer's Enemies? You must measure your <hi>Love</hi> to God, by the Sense you have of Evil. Never pretend to be Honourers of God, when you can be unconcerned at the highest Dishonour done unto his Name, make a Mock of <hi>Sin,</hi> and divert your self with the filthy Conversa<g ref="char:EOLhyphen"/>tion of the Wicked.</p>
+               <p>To what a desperate pitch are ye now grown, who can thus sin without Recoil? You have now conquer'd a tender Mind, and can ridicule what is sacred, ard scoff at all that is serious; for<note n="*" place="margin">Nemo reper<g ref="char:EOLunhyphen"/>tè fuit turpi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>simus. <hi>Juv.</hi>
+                  </note> no Man was ever so extreamly wicked on a sudden. Wonder O Hea<g ref="char:EOLhyphen"/>vens, and be astonished O Earth! that a Christian Age and Nation should produce such daring Rebels to an <hi>holy God,</hi> to pull down Ven<g ref="char:EOLhyphen"/>geance on us all.</p>
+               <p>Do but call in your Mind, and hear God's <hi>Voice</hi> by his Prophet, thus speaking, <hi>If I be a Father, where is mine Honour? If I be a Master, where is my Fear?</hi> Mal. 1.6. Let every Man examine and judge himself, how little share God can have in his <hi>Love,</hi> when he seldom thinks of him, or never seeks after him, but when those his Idols (or filthy Lusts, wherein he most delights) do fail him: For, according as Men's Comforts ebb and flow from these lower Enjoy<g ref="char:EOLhyphen"/>ments, so usually God hears from them in their Danger, Want, and Misery. And let any Man, in his Wits, ask himself the Question, Whether he could bear with such Ingratitude, and base Usage from his Fellow-Creatures.</p>
+               <p>And to you, <hi>Scarlet-Sinners,</hi> I speak, and dare not be silent: To you, the <hi>Shame of our Religion and Government:</hi> To you, the <hi>Re<g ref="char:EOLhyphen"/>proach</hi> of our <hi>Church and Nation,</hi> and <hi>Grief</hi> of all <hi>good Men.</hi> How dare you call your selves <hi>Christians,</hi> when you hate to be reformed?
+<pb n="14" facs="tcp:56254:10"/> You are the Pest of the Kingdom wherein you live, infecting our Youth, the Seed of Posterity. And as these crying Sins, by the Law of God, do render you most unworthy to share in our <hi>Civil Govern<g ref="char:EOLhyphen"/>ment,</hi> so you, above all Men, are most unfit to be intrusted with any <hi>Military Employment;</hi> for we have found by woful Experience, that</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="moral">
+                           <p>
+                              <hi>Drunkards, Swearers, and Whoremongers can never be good Soldiers, as being uncapable of true Courage, and good Con<g ref="char:EOLhyphen"/>duct; and therefore we may safely conclude,</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Such as you are the worst of Men, an horrid Scandal and Nusance, but no way serviceable to your King and Country: The worst of Soldiers in time of Danger, though fool-hardy in your Mirth and Jollity, thus highly to provoke your Maker. In time of Peace you stifle your Conscience, you silence it with your Curses and Oaths, as Drums and Trumpets drown the Cries in a Battel; but in the Face of an Enemy, when you should defend your Country, you tremble at Judgment to come; shunning the Danger, (as Malefa<g ref="char:EOLhyphen"/>ctors do Execution, in hope of a Reprieve,) that you may have Time to repent, though the Kingdom perish.</p>
+               <p>'Tis only the vertuous Man, and the sober, that can be Men of Conduct and Resolution, whose inward Testimony animates their Courage, by assuring them of their Reward, That if they live, they gain immortal Honour; if they die, their Life is a Sacrifice in defence of their Religion and Country.</p>
+               <p>All other Courage is either without rational Conduct, arising from the Ferment of Blood and Spirit, wherein Game-Cocks and Mastiffs outdo the greatest Heroes; or else it is fool-hardy Valour, arising perhaps from Brandy, or such intoxicating Liquors, which operate into Frenzy, evaporate into frothy Folly, and expire in Drowziness and Stupidity.</p>
+               <p>And how unfit such a Creature is for Conduct, or to look Death in the Face, when inward Guilt, and Reflection on past Folly, strikes him with Horrour, and Apprehension of a future Judgment, none know better than his own Conscience; which, when it should ani<g ref="char:EOLhyphen"/>mate his Courage, strikes him with Terrour, and makes him a fear<g ref="char:EOLhyphen"/>ful Coward.</p>
+               <p>Consider now, all you that thus force your selves against God's inward Teaching; it is no more than what the Heathen allowed to be<note n="*" place="margin">Video melio<g ref="char:EOLhyphen"/>ra, proboque, Deteriora se<g ref="char:EOLhyphen"/>quor.</note> innate in every Man's Breast, and what your own Conscience, if you give it leave to speak, will witness to be true; nay, you will and must hear it on a <hi>dying Bed,</hi> or at a <hi>shameful End,</hi> (the just Reward of such impious Folly.) It is continued Disobedience to
+<pb n="15" facs="tcp:56254:10"/> this inward Teaching (after long striving with God's Spirit) breeds Despair, which often ends with the <hi>Knife</hi> and <hi>Halter,</hi> as a terrible Warning to all that survive.</p>
+               <p>Dread therefore the Thoughts of Judgment to come, where the Worm that never dies, an eternal Anguish, shall, like a Vulture, gnaw upon your wounded Spirit, by Reflection on your past Follies, and long Abuse of God's Patience, waiting to bring you to Repen<g ref="char:EOLhyphen"/>tance.</p>
+               <p>Be wise yet, before it be too late; God still waits to be gracious, with a <hi>Turn ye, turn ye: Why will ye die?</hi> I have survived Forty Thousand that are all perished in these Quick-sands, and am only spared for your sake, to hang out my Experience for your Light, to warn you all from desperately adventuring farther in the same wicked Course. Be not deceived, abused Mercy will turn to Fury: Never pretend to be <hi>Lovers of your Country, Church men,</hi> or <hi>Loyal Subjects,</hi> till you resolve to be <hi>Christians,</hi> and <hi>good Men.</hi>
+               </p>
+               <p>
+                  <hi>For it is most certain,</hi> Rebels to God and their own Conscience, <hi>can never be</hi> good Subjects, or true Friends: <hi>And it is as certain, our holy Religion</hi> (the best Support of Monarchy, and the surest Bulwork against Popery) <hi>is (with the Gospel it self) equally uncapable of suffering, but from the</hi> vicious Lives and Immoralities of such wicked Members, <hi>who thereby expose themselves as the vilest Criminals on Earth, and Ob<g ref="char:EOLhyphen"/>jects of God's eternal Displeasure.</hi> I shall now briefly speak</p>
+               <div type="section">
+                  <head>Of the Doctrine and Discipline of our <hi>National Church:</hi> The chief Cause and Continuance of <hi>Separation</hi> from it, arises from the Scandal of some of our <hi>Clergy,</hi> and the Immora<g ref="char:EOLhyphen"/>lity of some of our <hi>Members;</hi> which is the Case of the <hi>Gospel it self.</hi> The Removal of this Offence, is the pro<g ref="char:EOLhyphen"/>per <hi>Medium</hi> for <hi>Ʋniformity,</hi> as the only Means to unite us all against our <hi>Common Enemy.</hi>
+                  </head>
+                  <p>OF this Matter, I humbly beg leave to speak plainly the Senti<g ref="char:EOLhyphen"/>ments of my own Mind, without Flattery, or Railing, or giving just Offence to any.</p>
+                  <p>Our <hi>Religion established</hi> commands and approves of all that is ex<g ref="char:EOLhyphen"/>cellent, and praise-worthy; it forbids and condemns all that is evil; exciting most powerfully to an holy, exemplary Life.</p>
+                  <p>It esteems all external Mode, Form, and Gesture, to be but the Crust and Shell of Divine Worship: It lays no more stress on any Rite and Ceremony, than only Decency and Order require. Nei<g ref="char:EOLhyphen"/>ther
+<pb n="16" facs="tcp:56254:11"/> could I ever find those Members of our Communion, who might truly deserve the Name of Pillars of our Church, so fond of any thing that was indifferent, but they could most willingly part with it, to purchase Union with their Dissenting Brethren; if desired in such a manner, and to be done in such a way, as may preserve Unity and Peace in the Church.</p>
+                  <p>Our Doctrine and Discipline manifestly disclaims all Superstition and Idolatry, as most abominable; and (to the shame of such ill Members) is defective in nothing but <hi>good Living;</hi> which <hi>(none can deny)</hi> is the Case of the Gospel it self: Therefore the greater Woe is pronounced against them that thus scandalize it, by giving Offence to othe<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, or expose it with prejudice to any.</p>
+                  <p>We are blessed with a great Number of pious, learned, and re<g ref="char:EOLhyphen"/>verend Fathers and Pastors: But, <hi>hinc illae Lachrymae,</hi> we have had too many others, (and I wish it were more laid to heart,) that have caused our Religion to be evil spoken of. And we know who said it; <hi>Woe be to them by whom such Offences come.</hi>
+                  </p>
+                  <p>
+                     <hi>I pray God grant, all that take upon themselves</hi> that high and holy Calling, <hi>may so qualifie themselves for it, and so regulate their Lives, according to the</hi> Examples of those I first mentioned, <hi>that by</hi> a pious, humble, <hi>and</hi> blameless Conversation, (<hi>the most</hi> powerful living Preaching,) <hi>they may put to silence those Adversaries who are too apt to take</hi> causeless Offence, and make a great Matter of it, <hi>where little is given; that they may thereby remove that</hi> Prejudice, <hi>which the</hi> Miscar<g ref="char:EOLhyphen"/>riages <hi>of some of their Brethren have created in the Minds of too many to<g ref="char:EOLhyphen"/>wards our</hi> Discipline <hi>and</hi> Worship; giving them occasion, <hi>not only to</hi> separate <hi>from us, but even to reproach our</hi> Religion, <hi>as countenancing such</hi> Enormities. This would wonderfully contribute towards so desirable a Blessing, as <hi>Ʋniformity</hi> and <hi>Harmony in Divine Worship.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Of the great Evil in bad Examples of <hi>Magistrates, Parents,</hi> and <hi>Masters of Families;</hi> and from their Neglect in their Duty.</head>
+                  <p>AND in order to so great and publick a Blessing as <hi>Harmony in Divine Worship,</hi> (for the Foundation must be laid in a Refor<g ref="char:EOLhyphen"/>mation of Manners,) it highly concerns you <hi>Magistrates</hi> and <hi>Rulers,</hi> as God's Vicegerents, to consider your Duty, both high and low, in every Quality and Degree; and even you <hi>Parents</hi> and <hi>Masters,</hi> as well as publick Officers; for you are every one, in his <hi>peculiar Pro<g ref="char:EOLhyphen"/>vince,</hi> as a <hi>God</hi> here below, set up and appointed in his stead, to punish and discountenance Evil Doers, and to defend and encourage them that doe well.</p>
+                  <pb n="17" facs="tcp:56254:11"/>
+                  <p>And where by evil doing, you give <hi>bad Examples,</hi> it aggravates your Crime ten fold; and you shall assuredly answer for all the <hi>Evil</hi> which thereby you give occasion, or encourage others to com<g ref="char:EOLhyphen"/>mit.</p>
+                  <p>And you may be also assured of this, that where you are remiss,<note place="margin">Qui non ve<g ref="char:EOLhyphen"/>tat peccare, cum potest, jubet.</note> or negligent, to exert your Power and Authority, <hi>to hinder Vice and Wickedness in others, it is equally the same, and you shall be accor<g ref="char:EOLhyphen"/>dingly judged, as if you had commanded or countenanced it.</hi>
+                  </p>
+                  <p>It is you must <hi>reform</hi> the Age we live in, and assist the <hi>Government</hi> we live under: The <hi>Trust</hi> in you reposed, is a <hi>great,</hi> a <hi>sacred Ta<g ref="char:EOLhyphen"/>lent,</hi> for which you must account, as under a strict <hi>Obligation</hi> to <hi>God</hi> and <hi>Man,</hi> to be just and faithful therein.</p>
+                  <p>It is from a Neglect in you, that our <hi>good Laws</hi> are trampled un<g ref="char:EOLhyphen"/>der foot, and rendred useless, at a time when there is more need than ever of their due Execution.</p>
+                  <p>That <hi>Publick Houses,</hi> at first designed for <hi>Conveniency,</hi> in <hi>Mode<g ref="char:EOLhyphen"/>ration</hi> on <hi>lawful Occasions,</hi> are now erected, multiplied, (and as it were <hi>consecrated</hi>) to be <hi>Shops</hi> and <hi>Nurseries</hi> of <hi>Prodigality</hi> and <hi>In<g ref="char:EOLhyphen"/>temperance,</hi> and <hi>Seminaries</hi> of <hi>Debauchery</hi> in all <hi>Disorder</hi> and <hi>Im<g ref="char:EOLhyphen"/>piety.</hi>
+                  </p>
+                  <p>That our Streets do swarm with the worst of Vermin, <hi>Shop<g ref="char:EOLhyphen"/>lifts,</hi> and <hi>Pick-pockets,</hi> lewd <hi>Ballad singers, Rioting</hi> and <hi>Ribaldry;</hi> and (which is now become our common Nusance,) with <hi>Beggars</hi> in the <hi>Day-time,</hi> and in the <hi>Night</hi> with the <hi>Spawn</hi> of the Bottomless Pit, those Drabbs called <hi>Night-walkers, Panders, Pimps,</hi> and <hi>Common Drunkards,</hi> with innumerable Thieves, as the Product of all, in aiding, receiving, abetting, or conniving. All this arises, en<g ref="char:EOLhyphen"/>creases, and continues through your <hi>Neglect.</hi>
+                  </p>
+                  <p>It is also from your <hi>Neglect</hi> that such numberless Troops of In<g ref="char:EOLhyphen"/>fernal Agents, <hi>Bullies, Cheats,</hi> and <hi>Gamesters,</hi> the Locusts of our Age, are peaceably suffered openly to frequent all Publick Places, in the disguise of Gentlemen, to have free and undisturbed Opportu<g ref="char:EOLhyphen"/>nities, as <hi>Inhabitants</hi> and <hi>Residents</hi> amongst us; and by all their subtle Arts and Insinuations, do corrupt and debauch our Youth, as well in <hi>Schools,</hi> as <hi>Families,</hi> especially the <hi>Ʋniversities</hi> and <hi>Seminaries</hi> of the <hi>Law;</hi> as also <hi>Servants</hi> (Male and Female,) <hi>Apprentices</hi> and <hi>Cashiers,</hi> to dispose and discipline them by all the Lures and Baits of Pride, Pleasure, Gaming, Drunkenness, and Wantonness, to de<g ref="char:EOLhyphen"/>fraud, filch, purloin, and at length desperately to betray their Trust, by downright Robbery. Picking of Locks, False Keys, and Coun<g ref="char:EOLhyphen"/>terfeit Bills, and all the ways wherein the Devil instructs those Agents, to bring them to ruine.</p>
+                  <p>And as by <hi>Luxury, Prodigality,</hi> and <hi>Intemperance,</hi> men thus con<g ref="char:EOLhyphen"/>sume their Estates, lose their Credit, and become desperate in their
+<pb n="18" facs="tcp:56254:12"/> Fortune, they from thence (as naturally as Effects hold of Causes) turn <hi>Gamesters, Cheats, High-way-men, House-breakers, Horse-stealers,</hi> and such like <hi>Caterpillers,</hi> to devour and destroy; associating them<g ref="char:EOLhyphen"/>selves into Cabals and Parties in their several Divisions, (as it were) the <hi>Banditi</hi> of the Kingdom.</p>
+                  <p>Nay, we so far exceed other Nations in <hi>bare fac'd</hi> and <hi>daring Wickedness;</hi> that whereas they allow only of secret <hi>Stews</hi> and <hi>Bro<g ref="char:EOLhyphen"/>thel-Houses,</hi> we have innumerable open Shops, (as Warehouses of Hell,) where impudent Strumpets expose themselves as the De<g ref="char:EOLhyphen"/>vil's Nets, to catch their weak and silly Prey, having their Factors abroad (those <hi>Bullies</hi> and <hi>Hectors</hi>) in disguise of Gentlemen, to in<g ref="char:EOLhyphen"/>veigle young and old to those Chambers of Death.</p>
+                  <p>If the Laws made by our prudent Ancestors against these Ene<g ref="char:EOLhyphen"/>mies of Mankind, That all Persons, Lodgers, and Inmates, that live high, fare well, wear a garb of Persons of Quality, and are suspected to spend above their Income, as having no certain visible Estate, or other lawful ways to support their Expences, shall give an account to Magistrates, what they are, from whence they come, and how they live, and from time to time find Sureties for their good Behaviour; how many of these Evils might be removed and prevented?</p>
+                  <p>If the Laws made in all those Cases, as also against the Profana<g ref="char:EOLhyphen"/>tion of the Lord's Day, (the Spring and Source of all these Evils,) were duly put in execution, this would be the most effectual Means to cause an universal Reformation of Manners, and secure us at home and abroad against our secret and foreign Enemies.</p>
+               </div>
+               <div type="section">
+                  <head>But this Reformation must begin from your own Pattern and Example.</head>
+                  <p>Therefore especially remember, you are intrusted, as God's Re<g ref="char:EOLhyphen"/>presentatives; and the best way is for every Man to begin at home with himself, to reform that which will inevitably ruine <hi>all,</hi> if con<g ref="char:EOLhyphen"/>tinued a little longer, and leave the succeeding Generations a Wil<g ref="char:EOLhyphen"/>derness of salvage Beasts, whose Blood will lie at your doors, for from hence spring all the Evils I have already spoken of.</p>
+                  <p>That Masters and Heads of Families, when they should be at home sober Patterns and Examples to Children and Servants, with their Family, offering up their Morning and Evening Sacrifice to the God of their Being; even for them to be then consuming their Time, as well as Substance, abroad in Coffee-Houses, and other publick Houses, leaving their Children and Servants obnoxious to all the snares may be laid for them by the Devil and his Agents. This is a
+<pb n="19" facs="tcp:56254:12"/> Matter deserves the consideration of all, especially such as are under so great Obligations to reform it.</p>
+                  <p>The putting of a stop to these growing Evils, is the only Means to restore a sober and industrious Education of Youth, under sober Tutors, Masters, and Instructers, by severe Discipline, the only Foundation whereon to raise the ancient Glory of the <hi>British Isle,</hi> in a stock of such Natives of our own, as by prudent steerage of the Helm at home, and Martial Conduct abroad, may again give Law to all the World.</p>
+                  <p>And to deal plainly, if you impartially examine your selves, you will find all this Neglect proceeds from the Poison of <hi>Self-Love,</hi> as being blind towards your selves, and afraid to look home, and too forward to censure others.</p>
+                  <p>And that makes you partial, and sway'd with Interest or Affe<g ref="char:EOLhyphen"/>ction, like old <hi>Eli,</hi> too gentle in reproving your Relations, or afraid of your Superiors; unwilling to disoblige your Friends, and too apt to gratifie your Neighbors, Customers, or your Tenants; and it may be, loth to punish in another, what you are guilty of your self. Thus it will be when our Love to God, the Spring of all our Happiness, is turned on our selves, the Fountain of all Evil: Then Governors, appointed by God to be his Deputies for the good of their Inferiors, turn Renegadoes, and act in the Devil's Work, to the inevitable Ruine of Posterity, whose Punishment hereafter will be answerable to their Crime, if they escape (as seldom they do) their Portion of Shame and Misery here.</p>
+                  <p>
+                     <hi>But that which should be the greatest grief (though few lay it to heart) is the Dishonour done to God, and the Scandal done to our Religion, from such gross Neglect, and evil Practices in the Professors of it.</hi>
+                  </p>
+                  <p>
+                     <hi>From hence, it is manifest, our Adversaries on all sides take occasion by their venemous Tongues, and the virulent Pens of mercenary Knaves, and Scriblers, in printed Libels and railing Pamphlets, maliciously and falsly to charge the purest, and best established Religion in the World, with such Immoralities and execrable Treasons, as have been hatched in secret, by the most flagitious Villains and Traytors.</hi>
+                  </p>
+                  <p>
+                     <hi>It argues little Charity for our Religion, or Kindness for us, at this time-a-day, in so publick a manner to blemish the settled Doctrine, and Discipline of our National Church, with such side-wind Reflexions, as if it countenanced, or allowed the Wo<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds or Actions of some designing Knaves, (who can be of any Persuasion,) and some profligate Villains, the proper Tools of such Knaves,) who have given themselves the Name of</hi> Church-of-England-Men; <hi>but are indeed of no Religion at all, and have been really concerned in the late damnable Plot, or do dispute whether
+<pb n="20" facs="tcp:56254:13"/> there be any such Plot or no, as if our Doctrine or Discipline instructed them therein.</hi>
+                  </p>
+                  <p>
+                     <hi>Christian Charity, without Reflexion, would rather have concluded; (as our Religion teacheth;)</hi> That sincere Christians will ever be Loyal Subjects, Honest Men, and Good Neighbors. <hi>But Rogues will be Rogues in all Climates; and designing Knaves and Time servers, will be Hypocrites and Traytors in all Persuasions.</hi>
+                  </p>
+                  <p>
+                     <hi>What Mercy can we expect at the Hands of these Men, (were they but arm'd with Power,) who thus publickly arraign and explode, not only our National Church in general, but also such Persons, whose Piety and Meekness in the whole Tenour of their Lives, (especially</hi> under their late Trial,) <hi>might have obliged their worst Enemies, in Silence, to bewail them in their present Condition, and leave them to stand and fall to their own Maker; at least, to a more charitable Opinion of them, than thus rashly to charge them,</hi> as Betrayers of our Laws, Liberties, and Re<g ref="char:EOLhyphen"/>ligion; nay, of the whole Kingdom, by inviting the most barba<g ref="char:EOLhyphen"/>rous, tyrannical Disturber of <hi>Christendom</hi> to accept it.</p>
+                  <p>
+                     <hi>This is far from</hi> Love <hi>of</hi> Truth, Christian Zeal, <hi>or</hi> Loyalty <hi>for their</hi> Majesties now in the Throne: <hi>But we may (with more Charity) conclude it to be done at this juncture, on purpose to</hi> expose our Reli<g ref="char:EOLhyphen"/>gion, and all its Adherents, <hi>so as thereby to excite, and enrage the credulous and ungovernable Multitude (who are easily imposed upon) a<g ref="char:EOLhyphen"/>gainst them,</hi> as Authors of all the Miseries and Calamities we now groan under, <hi>as a ready way to set us all in a Flame, even now that we stand in most need of Ʋnion.</hi>
+                  </p>
+                  <p>
+                     <hi>When God knows, they that are thus</hi> censorious, <hi>and</hi> rash <hi>in</hi> judging, <hi>may have had as great a share (as any) in the procuring Cause. I speak my own Mind plainly, as apprehending it my Duty; for should I be unconcerned, when I hear my innocent Mother publickly slandered and exploded, I should declare my self worse than an Infidel.</hi>
+                  </p>
+                  <p>
+                     <hi>But all this still proceeds from the same Original</hi> Fountain, <hi>and</hi> Poison <hi>of</hi> Self-Love.</p>
+                  <p>
+                     <hi>This would be no Riddle, if Men would first</hi> look home, <hi>and</hi> judge themselves; <hi>for Men of all</hi> Persuasions <hi>are so ready to blame others, before they do this, that they are too apt wholly to excuse themselves, with the</hi> Pharisee, I thank thee, O Father, I am not as this Publican.</p>
+                  <p>
+                     <hi>But the right way of</hi> Judging, <hi>is (as I have said before) to trace our Misery to its Cause, and from thence look up to him that appoints the Instruments of our Punishments, and can remove or change them at his pleasure.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="item">
+               <pb n="21" facs="tcp:56254:13"/>
+               <head>Now let us consider the Third and last, but the most <hi>sublime and subtil sort of</hi> Moral Idolatry; <hi>or,</hi> The great Danger and Evil of <hi>Ambition</hi> and <hi>Worldly Design,</hi> under the Vizor of Zeal for <hi>Reformation;</hi> and of <hi>Liberty of Conscience</hi> and the great Abuse of it.</head>
+               <p>'Tis true, as God Almighty hath various Ways and Methods to reform and discipline his Children, according to their various Tempers and Dis<g ref="char:EOLhyphen"/>positions; so the Devil, by his Janizaries, <hi>Designing Hypocrites,</hi> and <hi>Time-servers,</hi> who can readily take any Impression in Religion, be of two or three persuasions at once, to promote their own <hi>Interest,</hi> puts himself into various shapes, and baits his Hook with various Objects, suited to mens different Inclinations, that he may catch both <hi>Pharisee</hi> and <hi>Publi<g ref="char:EOLhyphen"/>can;</hi> as well the <hi>spiritually proud,</hi> as the <hi>Debauchee,</hi> that no Fish may escape his Net, and (if it were possible) the Elect too should be cheated by him.</p>
+               <p>Thus he baits the <hi>Luxurious</hi> with <hi>Pleasure,</hi> the <hi>Avaritious</hi> with <hi>Riches,</hi> and the <hi>Ambitious</hi> with <hi>Pride, Dominion,</hi> and <hi>worldly De<g ref="char:EOLhyphen"/>sign.</hi>
+               </p>
+               <p>When he designs to subvert a Kingdom, or overthrow a Government, he doth not appear immediately in <hi>Arms</hi> and <hi>open Hostility;</hi> but first under a <hi>Disguise</hi> of <hi>Zeal</hi> for <hi>Reformation,</hi> which he generally pro<g ref="char:EOLhyphen"/>secutes, by removing all <hi>Foundation</hi> laid in the <hi>first Principles</hi> of <hi>Religion;</hi> and then proceeds to create various <hi>Opinions</hi> in the Minds of honest and well-meaning Persons, of easie and credulous Dispositions; continually raising <hi>Niceties</hi> and <hi>Scruples,</hi> (before any <hi>Foundation</hi> be laid in <hi>fundamental</hi> Knowledge of the first Principles of our <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> contained in the <hi>Lord's Prayer,</hi> the <hi>Ten Commands,</hi> and the <hi>Creed,</hi>) and those <hi>Niceties</hi> and <hi>Scruples</hi> are more and more irritated by <hi>subtil</hi> and <hi>designing Teachers,</hi> under a <hi>Disguise</hi> of <hi>Liberty</hi> of <hi>Conscience.</hi>
+               </p>
+               <p>God forbid <hi>Liberty</hi> of <hi>Conscience</hi> (if regulated by the Standard of the <hi>Scriptures</hi>) as it is the Birthright of every Christian, should be deni<g ref="char:EOLhyphen"/>ed to any that in sincerity desire it, to live peaceably under the <hi>Govern<g ref="char:EOLhyphen"/>ment in all Godliness and Honesty;</hi> because many persons of honest and well-meaning Principles, may, from their <hi>Education in Foreign Parts,</hi> or in Families of <hi>different Persuasions,</hi> either misapprehend, or not rightly understand the Truth of our Doctrine and Discipline establish<g ref="char:EOLhyphen"/>ed among us.</p>
+               <p>And many others, in the simplicity of their Hearts, when they see the <hi>vicious Lives</hi> and <hi>Actions</hi> of some of our Members, or the <hi>Scan<g ref="char:EOLhyphen"/>dal</hi> of some of our <hi>Clergy,</hi> in things that are open and manifest, may
+<pb n="22" facs="tcp:56254:14"/> be so imposed upon, by <hi>Jesuitical Whispers</hi> on the one hand, and private <hi>insinuating Teachers,</hi> on the other hand, as to imagine that our Religion established, must either countenance or allow of such Evils in the Professors of it. Which (as I have already said) is the Case of the Gospel it self.</p>
+               <p>Now forasmuch as our Government is founded in the Law of God and Nature, and our Religion established, is settled and framed from no other Standard or Original but God's revealed Will in the Scriptures, and so both may be a just Standard for all other <hi>Governments.</hi> It must therefore be a Strain of great Arrogance and Presumption in any State-Mountebank to propose any Foreign President for alteration of either.</p>
+               <p>And to silence all Complaints but theirs, whom nothing less than All will satisfie, As our <hi>Religion</hi> and <hi>Government</hi> so established, do allow a peaceable and innocent <hi>Liberty of Conscience,</hi> the Grand Charter of Christianity it self; (which we have found by experience, no other diffe<g ref="char:EOLhyphen"/>ring Persuasion but ours, would ever allow any longer than they wanted power to restrain it;) so none can deny it to be both prudent and just in the <hi>Government,</hi> (from the Law of <hi>Self-preservation,</hi>) to take care of, and secure it self against all abuse of so great a Blessing, by such, who have <hi>pure Religion</hi> only in their <hi>Mouths,</hi> but the rankest Poison of <hi>Ambition</hi> and <hi>Worldly Design</hi> in their <hi>Hearts;</hi> making no Scruple (as Opportunity offers) to devour Widows Estates, as well as the Houses and Patrimony of them and all others, to make way for their own <hi>Ambitious Designs;</hi> For we find it most certainly true, by woeful experience, that <hi>it is impossible to secure any Government in the World on a lasting Foundation, but by annexing it with the Religion established, so as to make them inseparable, according to the Policy of</hi> New-Eng<g ref="char:EOLhyphen"/>land; (where <hi>Liberty of Conscience</hi> first planted their <hi>Law-makers.) They that do not first approve of, and embrace our Religion esta<g ref="char:EOLhyphen"/>blished, ought to have no share in our Government.</hi>
+               </p>
+               <p>But such as would come into the <hi>Government</hi> on other Terms, have <hi>Liberty of Conscience</hi> only in their <hi>Mouths,</hi> but <hi>Ambition</hi> and <hi>world<g ref="char:EOLhyphen"/>ly Design</hi> in their <hi>Hearts;</hi> which they carry on by multiplying Sects under several Leaders, (each ambitious to be Head of his own Party,) who, by their influence on credulous and well-meaning Persons, enclose them, as in so many <hi>Peculiars,</hi> each Pastor to encline and lead his own Flock; the only Method to divide, and consequently to weaken both the Government and Religion established; That whenever their Interest is in danger, they may easily (as hath been practised in like cases) by the same Art, dispose all to unite (for the same end) against the Govern<g ref="char:EOLhyphen"/>ment they live under.</p>
+               <p>And thus one and the same common (though invisible) Enemy of Mankind, putting himself into various shapes, and baiting his Hook with proper Objects, suited to mens various Inclinations and Dispositions, (which
+<pb n="23" facs="tcp:56254:14"/> all centre in Self-love,) can first divide and weaken, and again unite to destroy the best <hi>Religion</hi> and <hi>Government</hi> in the world; though the designing Party are ever lurch'd in what they aim at, which is <hi>Do<g ref="char:EOLhyphen"/>minion</hi> and <hi>Rule.</hi>
+               </p>
+               <p>For no sooner is any Party gotten uppermost, but the same Principle of Ambition and worldly Design animates the rest (that are under) to <hi>supplant</hi> that, in order to advance themselves into the <hi>Government;</hi> so that their whole <hi>Babel</hi> of <hi>Designing</hi> and <hi>Contriving,</hi> ever ends in <hi>A<g ref="char:EOLhyphen"/>narchy</hi> and <hi>Confusion;</hi> which hath caused many of their <hi>Chief Buil<g ref="char:EOLhyphen"/>ders</hi> (convinced by their own woeful experience) at last to acknowledge their <hi>Error,</hi> and to declare, That <hi>to seek a Kingdom in this world by carnal Means</hi> and <hi>Weapons, is no true Badge of the Blessed Re<g ref="char:EOLhyphen"/>deemer's Followers.</hi>
+               </p>
+               <p>What clearer Demonstration can we have that there is always such a <hi>Designing</hi> Party at the Bottom, under the most specious Vizor of <hi>Zeal for Reformation,</hi> and <hi>Liberty of Conscience,</hi> than to see those who pretend to the greatest <hi>Purity</hi> and <hi>Sanctity</hi> (though of several Persuasi<g ref="char:EOLhyphen"/>ons) all to unite, and dilgently apply themselves to such <hi>Patrons</hi> and <hi>Leaders,</hi> whose Interest and Influence may best promote their Design, though they all know them to be of no Religion at all; nay, such as are guilty of the greatest * <hi>Immoralities;</hi> who can thunder out bloody Oaths without reluctancy, and make use of their Power and Interest to oppress others, and engross the Widow and Orphans Estates: Such Men as these, are proper Objects of all the Courtship and Address of those consecrated Politicians; for they well know they are adapted for their Turn, who rea<g ref="char:EOLhyphen"/>dily prostituting their Conscience to their Interest, can be most serviceable to their ambitious Designs, And as they are Favorites in the highest sta<g ref="char:EOLhyphen"/>tion, so they are capable of the greatest Acts of Oppression and Injustice therein, (by alienating the Hearts of Subjects,) they may contribute more to dethrone a Monarch, or subvert a Government, than Ten Thousand Armed Men; especially as these designing Hypocrites manage it to their own advantage; who, though they always carry the flattery of a Loyal All-hail in their Mouths; yet by secret Trumpets in every corner they ar<g ref="char:EOLhyphen"/>raign the Prince himself, as Author of all Acts of Injustice and Oppres<g ref="char:EOLhyphen"/>sion, done by such his Ministers, to render Monarchy uneasie to the Peo<g ref="char:EOLhyphen"/>ple; and at the same time, with no less industry, both in publick and pri<g ref="char:EOLhyphen"/>vate, expose the most Faithful and Loyal Counsellors and Magistrates, who are most true to the Church and Government, and the very Pillars and Security of the Throne, as Betrayers of their Countrey; their Laws and Liberty; rendring them odious to the Prince and People, that they may remove them, in order to get Champions and Agents of their own Faction, into all Places and Offices of Trust and Power in the Govern<g ref="char:EOLhyphen"/>ment,</p>
+               <pb n="24" facs="tcp:56254:15"/>
+               <p>This discovers plainly that the Patrons and Clients are both governed by one and the same Principle of <hi>Self-Love,</hi> which ebbs and flows with their own Interest, the vital part of their Religion, and so disposes them to di<g ref="char:EOLhyphen"/>vide or unite against that which opposes their Designs, and at length to quarrel among themselves about (what they all aim at) <hi>Dominion</hi> and <hi>Rule.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="enquiry">
+            <head>The Result of all which may be this; to put us upon a <hi>Modest Enquiry,</hi>
+            </head>
+            <p>WHat Endeavors have been made by all the <hi>Separate Congre<g ref="char:EOLhyphen"/>gations</hi> in general, towards an <hi>universal Reformation</hi> of <hi>Man<g ref="char:EOLhyphen"/>ners,</hi> and <hi>Allaying our Heats,</hi> to <hi>heal</hi> our <hi>Divisions,</hi> in or<g ref="char:EOLhyphen"/>der to Union among our selves; the only Means under Heaven, to secure us in these perilous times against our <hi>Foreign Enemy.</hi>
+            </p>
+            <p>And wherein <hi>Christian Charity</hi> and <hi>Purity of Life</hi> (farther than in cheap and easie fruit of the Lips) hath appeared in <hi>Dissenters,</hi> or those that separate from our <hi>National Communion,</hi> and pretend to <hi>Extraor<g ref="char:EOLhyphen"/>dinary Call</hi> and <hi>Conversion,</hi> so as to distinguish them by any visible <hi>Change</hi> in their Lives and Conversation, from those of our <hi>Commu<g ref="char:EOLhyphen"/>nion,</hi> who live according to the <hi>Doctrine</hi> and <hi>Discipline</hi> of our Church, or from what they themselves have ever before been in their Life<g ref="char:EOLhyphen"/>time.</p>
+            <p>And also what visible Effects the late <hi>Indulgence</hi> granted to <hi>Dissen<g ref="char:EOLhyphen"/>ters,</hi> hath wrought for the better, in procuring more <hi>meek, humble,</hi> and <hi>peaceable Spirit,</hi> or abating <hi>Pride, Murmuring,</hi> or <hi>Discontent;</hi> railing against, and censuring of others, (even among their own Party,) in order to heal our Breaches, and compose our Differences.</p>
+            <p>Nay we may modestly enquire, whether the Scope and tendency of all endeavours in the <hi>Leading Party</hi> among them, hath not been more after <hi>Dominion</hi> and <hi>Rule</hi> here below, than to advance the <hi>King<g ref="char:EOLhyphen"/>dom of Christ</hi> in the Hearts of Men? And in order to that, whether they have not, with the greatest Subtilty and Partiality improved their <hi>Factories</hi> and <hi>Agency</hi> by humane Policy, to direct, order, or influence the choice of Magistrates and Officers in every Colony among us, from whence the greatest Heats and Disturbances have arisen, let the visible Effects speak for themselves?</p>
+            <pb n="25" facs="tcp:56254:15"/>
+            <p>And when we have so done, we may (from the History of the last Age) reflect upon that <hi>happy Ʋnion,</hi> which continued among Protestants, in this Kingdom, in the open Practice of <hi>Piety, Sobriety,</hi> and <hi>Righteousness,</hi> from the first time of the <hi>Reformation;</hi> but espe<g ref="char:EOLhyphen"/>cially during the forty four years of Queen <hi>Elizabeth</hi>'s Reign, when all (as one Soul) joyfully and constantly assembled together at the set times appointed by the Church, to celebrate <hi>Divine Service,</hi> and hear the <hi>Scriptures</hi> daily read, as the only Means to keep up a <hi>vene<g ref="char:EOLhyphen"/>rable Awe and Sense of the Majesty</hi> of God in the World, and in the Mind of every individual person, and to maintain and increase <hi>Christian Charity</hi> and <hi>Brotherly Kindness,</hi> (the alone <hi>Medium</hi> of <hi>Ʋnion</hi> in a Kingdom,) as being all fully persuaded in their Mind, it was a Service most acceptable to God, without any other Disci<g ref="char:EOLhyphen"/>pline, or way of Worship than what had been so setled among us by those Pious and Learned <hi>Martyrs</hi> (the Founders of it,) who carried their own Faggots, <hi>(not loving their Lives unto death,)</hi> to bear their Testimony for it.</p>
+            <p>By which means that happy Queen so long reigned in Peace, (by Love,) in the hearts of all her Subjects, and a <hi>Terror</hi> to all her Ene<g ref="char:EOLhyphen"/>mies; whereby our <hi>National Church</hi> became the Envy of <hi>Rome,</hi> and the only Sanctuary for all <hi>Distressed Protestants</hi> abroad.</p>
+            <p>
+               <hi>All this plainly demonstrates, That</hi> pure and undefiled Religion, <hi>foun<g ref="char:EOLhyphen"/>ded in</hi> Piety, Sobriety, <hi>and</hi> Righteousness, <hi>may be easily known of all, as it consisis in</hi> Humility, Self-denial, <hi>and</hi> sincere Practice <hi>of what we know, (all epitomiz'd in</hi> good Living,) <hi>and not in</hi> profound Know<g ref="char:EOLhyphen"/>ledge, needless Disputes, long Prayers, or fruitless Dis<g ref="char:EOLhyphen"/>courses.</p>
+            <p>If these things were laid to heart, so as to be well weighed and considered by all <hi>sincere</hi> and <hi>well meaning Christians,</hi> who now sepa<g ref="char:EOLhyphen"/>rate from our publick Communion, into private Congregations, that from thence they might be awakened, to examine, and (with me) seriously enquire into the Truth of things, they would soon find how miserably they have been imposed upon, and drawn into pre<g ref="char:EOLhyphen"/>judice, and an ill apprehension of the <hi>purest</hi> and <hi>best established Reli<g ref="char:EOLhyphen"/>gion</hi> on the Earth, by such designing Leaders as can be contented to sacrifice the Peace and Safety of the whole Kingdom, to promote the Interest of a Party, in order to gratifie their own <hi>Ambition</hi> and <hi>Worldly Design,</hi> though under a Disguise of <hi>Liberty of Conscience;</hi> when in truth by Separation from us, they do but exchange one <hi>Shell of Religion</hi> for another; for so I reckon, (and so our Church doth esteem) the most refined Discipline, or outward Way of Worship to be; and lays no more stress in it than Decency and
+<pb n="26" facs="tcp:56254:16"/> Order requires: Therefore it is no wonder that the most Ignorant, and Short-sighted, and such as look no farther into Religion than the <hi>outward Appearance,</hi> but are never capable of discerning the <hi>Vi<g ref="char:EOLhyphen"/>tal Substance,</hi> should, from the Scandal of some wicked Members, (from which the <hi>Gospel</hi> it self was not wholly exempt,) be so apt to despise our established Discipline, and yet at the same time idolize another Form, or Way of Worship; as if God were more pleased with one <hi>Shadow,</hi> than another.</p>
+            <p>Whereas we esteem our outward Discipline no otherwise than as outward Means, composed and adapted by the most pious and lear<g ref="char:EOLhyphen"/>ned Men, from the sacred Fountain of the Scriptures, suited to eve<g ref="char:EOLhyphen"/>ry Capacity through a whole Kingdom; the least knowing, as well as the most learned; that all may joyn together. In which, the <hi>pious,</hi> and <hi>well-disposed</hi> Christian may worship God in the <hi>Beauty of Holiness;</hi> and the <hi>Youth</hi> and <hi>Ignorant,</hi> as with a Leading-step, may be trained up, from the first Principles of Religion, to the greatest Perfection; and whereby also the <hi>Profane</hi> and <hi>Loose</hi> are, by a ve<g ref="char:EOLhyphen"/>nerable Authority, influenced and reclaimed, at least kept within some Bounds, from <hi>scoffing</hi> at <hi>Religion;</hi> which is daily occasioned by the Separation of such who are still subject (with their Neighbours) to the same Infirmities attending Humane Frailty, as well as to <hi>Pride, Ambition, Self-Love,</hi> (in the inordinate Love of the World,) <hi>railing at,</hi> and <hi>censuring</hi> of others, and yet puffed up with a false Conceipt of their Way, do herd and distinguish themselves under their several <hi>Leaders,</hi> into so many and various <hi>Ways, Opinions,</hi> and <hi>Persuasions;</hi> (I wish it were not so near a Resemblance of the several Orders in the Church of <hi>Rome;</hi>) and all under conduct of their pe<g ref="char:EOLhyphen"/>culiar Guides.</p>
+            <p>From whence it comes to pass, that vain and loose Persons, be<g ref="char:EOLhyphen"/>ginning first with light Thoughts of Religion, and by degrees de<g ref="char:EOLhyphen"/>clining the publick Prayers of the Church, and private Family-Du<g ref="char:EOLhyphen"/>ties; and from thence giving scope to boundless Lusts, at last cast off all Religion, and become downright <hi>Debauchees,</hi> and <hi>practical Atheists.</hi>
+            </p>
+            <p>This may satisfie any but such as are in love with a false Persua<g ref="char:EOLhyphen"/>sion, and beforehand resolved to know no better, that the Offence is taken, and not justly given, by those that thus separate from our National Communion; especially when they may be all so clearly convinced, that the original Cause of Separation from the Com<g ref="char:EOLhyphen"/>munion did not arise from any thing either in our Doctrine, or the Discipline of our Church, but from what was acted by Tem<g ref="char:EOLhyphen"/>poral Rulers, (as they were steered by <hi>Jesuites,</hi> and <hi>Popish Interests,</hi>) in Ecclesiastical Courts, procuring a Toleration of <hi>Sports</hi> on the <hi>Lord's Day;</hi> and Indulgence to be granted in other Matters, which
+<pb n="27" facs="tcp:56254:16"/> our holy and pure Religion expresly condemns and abhors; which could not but be very offensive to many honest and well-meaning Persons; especially when so industriously improved by subtile <hi>Je<g ref="char:EOLhyphen"/>suites,</hi> and whispering <hi>Sectaries,</hi> (the secret Enemies of our Church,) who insinuated into the Minds of the Easie and Credulous, that our Religion did countenance such Evils, and thereby drew them into <hi>separate Congregations;</hi> whereby they had opportunity to introduce so many <hi>strange Doctrines,</hi> and variety of <hi>Persuasions,</hi> the <hi>Seed</hi> and <hi>Cause</hi> of all our <hi>Heats, Divisions,</hi> and <hi>Animosities,</hi> on the one hand; and of <hi>practical Atheism, Debauchery,</hi> and <hi>Immorality,</hi> on the other: Both which, (as gross <hi>Hypocrisie,</hi> and <hi>bare-fac'd Impiety,</hi>) do equal<g ref="char:EOLhyphen"/>ly expose us to the Divine Vengeance, and lay us open to our foreign Enemies. For it is most plain, the <hi>Enthusiastick,</hi> as well as the <hi>De<g ref="char:EOLhyphen"/>bauchee,</hi> when thwarted in their Designs, have an equal Tendency to <hi>Rebellion</hi> and <hi>Treason.</hi>
+            </p>
+            <p>I say, were sincere, (though mis-persuaded;) well-meaning Per<g ref="char:EOLhyphen"/>sons but once fully sensible of these great Truths, and of the un<g ref="char:EOLhyphen"/>avoidable Necessity of their returning into our <hi>Communion,</hi> as t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e only Means left to unite and save us, by restoring <hi>True Piety,</hi> and <hi>Christian Charity,</hi> in <hi>Sobriety</hi> and <hi>Righteousness</hi> among us, it is impos<g ref="char:EOLhyphen"/>sible they should sleep quietly one Night, before they returned into this <hi>Bosom</hi> of Safety: For (God knows) I fear there is no other <hi>Cure</hi> left for our universal Distemper; and it is high time to begin so happy a Work,</p>
+            <p>Wherein their <hi>Leaders,</hi> if they have (as they all pretent to have) the Spirit of <hi>Primitive Christianity,</hi> may (as faithful in God's Vine<g ref="char:EOLhyphen"/>yard) outstrip all our <hi>idle Labourers</hi> in painful and powerful Preach<g ref="char:EOLhyphen"/>ing; and especially, by their exemplary and holy Living, so in<g ref="char:EOLhyphen"/>fluence their Doctrine on the Mind, as to reclaim many profane Persons, who now take occasion, from their Separation, into so many Forms and Shadows of Religion, to inveigh, and rail against them all.</p>
+            <p>And the <hi>Lay-Members,</hi> if they return into our Communion, and live up to what our holy Religion (which is defective in nothing but <hi>good Living</hi>) doth most plainly and powerfully teach, may boldly reprove, (by our <hi>Church-Authority,</hi>) and put to silence many open Transgressors, and <hi>Evil Doers,</hi> who now take occasion, from so ma<g ref="char:EOLhyphen"/>ny Fashions of Religion among us, to deride and scoff at all Reli<g ref="char:EOLhyphen"/>gion in general; and also (to their great Comfort) may thereby shame a scandalous Clergy-man into a Reformation of his Life, by saying, (with the Spirit of Meekness,) in the Language of the holy Prophet, <hi>I have more Ʋnderstanding than all my Teachers; for thy Te<g ref="char:EOLhyphen"/>stimonies are my Meditation,</hi> Psal. 119.</p>
+            <pb n="28" facs="tcp:56254:17"/>
+            <p>And this (I bear witness) is countenanced by all our reverend and pious <hi>Fathers</hi> and <hi>Pastors,</hi> who would have <hi>all to come to the Know<g ref="char:EOLhyphen"/>ledge and Practice of the Truth,</hi> and who it is most manifest) are wil<g ref="char:EOLhyphen"/>ling and ready to comply with any thing that may tend to heal our Breaches, and to purchase <hi>Ʋnion</hi> with their <hi>Dissenting Brethren,</hi> if desired in <hi>such a way,</hi> and to be done in <hi>such a manner,</hi> as may pre<g ref="char:EOLhyphen"/>serve <hi>Peace</hi> and <hi>Ʋnity</hi> in the Church.</p>
+            <p>Which we can never reasonably hope should be done, without some <hi>orderly Application</hi> of such as must own themselves <hi>inferiour</hi> to those whom the Government (under which they live) have made their <hi>Superiours;</hi> which nothing can hinder, or obstruct, but <hi>Pride, Obstinacy,</hi> or <hi>Worldly Design;</hi> all which are directly contrary to the <hi>meek, yielding,</hi> and <hi>self-denying</hi> Temper of <hi>Primitive Christianity.</hi>
+            </p>
+            <div type="example">
+               <head>And here I may, with an humble Confidence, inforce this Argument from the <hi>greatest Example,</hi> and the most <hi>ex<g ref="char:EOLhyphen"/>cellent Pattern;</hi> even that of His <hi>Sacred Majesty,</hi> now in the <hi>Throne,</hi> the <hi>Head</hi> of <hi>our Government,</hi> and <hi>Chief</hi> of <hi>our Communion;</hi> whose incomparable <hi>Perfections</hi> (whe<g ref="char:EOLhyphen"/>ther we consider Him as a <hi>Man,</hi> or as a <hi>Christian</hi>) are sufficiently known to the <hi>whole World.</hi>
+               </head>
+               <p>WHO, to give us the clearest Evidence of his <hi>Zeal</hi> and <hi>Since<g ref="char:EOLhyphen"/>rity,</hi> hath exposed himself to the greatest Dangers, for De<g ref="char:EOLhyphen"/>fence of the <hi>Reformed Religion.</hi> And though his Education was in a <hi>different Persuasion,</hi> (the <hi>Discipline established</hi> in his native Country,) yet, to demonstrate both his <hi>Piety</hi> and <hi>Prudence,</hi> when he had sear<g ref="char:EOLhyphen"/>ched into, and was fully satisfied, that the <hi>vital Part</hi> of that <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> wherein he was bred, and the Doctrine here taught in our <hi>Na<g ref="char:EOLhyphen"/>tional Church,</hi> was one and the same, he was neither <hi>tenacious</hi> in his own <hi>Opinion,</hi> nor bigotted to the outward <hi>Form,</hi> or <hi>Persuasion</hi> (which is but the <hi>Crust</hi> and <hi>Shell.</hi>)</p>
+               <p>But (as best became the Head of his People) he, together with his <hi>Royal Consort,</hi> (as one Soul,) do openly profess our <hi>established Re<g ref="char:EOLhyphen"/>ligion;</hi> the greatest Blessing Heaven could bestow, if we know our Happiness. And Oh that all His Majesty's Subjects would resent it accordingly.</p>
+               <p>And farther, I might urge another eminent Instance in His <hi>Royal Highness</hi> the <hi>Prince of Denmark,</hi> whose Education was most strict in the <hi>Lutheran Church,</hi> (the established Religion of that Kingdom,) where the Discipline is as different from that of the <hi>Calvinists</hi> in <hi>Holland,</hi> as ours is from both; and yet, from the same <hi>Christian Prin<g ref="char:EOLhyphen"/>ciple,</hi>
+                  <pb n="29" facs="tcp:56254:17"/> founded in the vital Substance of <hi>Truth</hi> and <hi>Goodness,</hi> and not wedded to the <hi>Shell</hi> and <hi>Shadow,</hi> finding the pure Doctrine still the same, he joyns himself with His Sacred Majesty, in the same Communion.</p>
+               <p>Who both, during their late Expedition abroad, in the defence of their Religion and Country, have constantly, in a devout man<g ref="char:EOLhyphen"/>ner, offered up their Morning and Evening-Sacrifice at the <hi>publick Prayers,</hi> according to the Discipline established in our Church.</p>
+               <p>From whence we may appeal to all impartial Christians herein, whether such as are <hi>Natives</hi> of our own Country, and <hi>Fellow-Subjects</hi> with us in one Kingdom, and do all pretend to hold <hi>Ʋnity</hi> in Do<g ref="char:EOLhyphen"/>ctrine with the <hi>Reformed Churches</hi> abroad, and with us too, in our <hi>National Church,</hi> and can so readily conform to the <hi>Fashions, Garb,</hi> and <hi>Attire</hi> of the present Age, and are apt enough to insist on the least <hi>minute Particle</hi> of Precedency (with the rest of Mankind) in <hi>Ho<g ref="char:EOLhyphen"/>nour,</hi> according to Order and Decency in <hi>Temporal Government;</hi> yet are so <hi>tenacious</hi> in their <hi>Opinion,</hi> and wedded to their own outward Form, or <hi>Shadow</hi> of <hi>Divine Worship,</hi> as, by a continued Separation, to <hi>sacrifice</hi> our Religion, and the <hi>Peace</hi> and <hi>Safety</hi> of our Govern<g ref="char:EOLhyphen"/>ment, our <hi>Laws,</hi> our <hi>Liberties,</hi> and our <hi>Lives,</hi> as a Prey to our <hi>Fo<g ref="char:EOLhyphen"/>reign Enemies,</hi> rather than, with those most <hi>Illustrious Persons,</hi> and many other <hi>eminent modern Instances,</hi> (who were all as strictly bred in different Persuasions, under Foreign Governments,) to <hi>embrace that holy and pure Religion,</hi> so here established and setled among us, from the first Reformation, by those <hi>pious</hi> and <hi>learned Martyrs,</hi> the <hi>Founders</hi> of it: I say, whether this <hi>Stiffness</hi> and <hi>Obstinacy</hi> doth not arise from <hi>Ignorance</hi> and <hi>Prejudice</hi> in the Honest and Well-meaning, who are <hi>seduced,</hi> and <hi>imposed upon,</hi> from <hi>Self-Love, Ambition,</hi> and <hi>worldly Design</hi> in the <hi>Leaders</hi> and <hi>Seducers,</hi> rather than from any <hi>pure Principle</hi> of Primitive Christianity, I leave all Persons concerned herein, to be themselves Judges of the Matter.</p>
+               <p>But after all, I would be so understood, that I do not design, in the least, by any thing I have here said, Abridgment or Restraint of that <hi>honest, innocent,</hi> and <hi>peaceable Liberty of Conscience,</hi> (of which I have already discoursed,) which we must allow to be the <hi>Christian's Birthright.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <pb n="30" facs="tcp:56254:18"/>
+            <head>And now, from all, we may (with humble Sub<g ref="char:EOLhyphen"/>mission) draw this most certain <hi>Conclusion.</hi>
+            </head>
+            <p>THat the true <hi>Christian Religion,</hi> according to the Doctrine and Practice of our blessed Redeemer, the Founder himself, must be laid in sincere <hi>Humility</hi> and <hi>Self-denial;</hi> both centring in the pure <hi>Love of God,</hi> (from which Man fell,) which we call <hi>Charity:</hi> This cannot he hid, but naturally (like the Sun) darts forth its Influence, in <hi>Love</hi> to <hi>our Fellow-Creatures,</hi> causing us to love as God loves, for Goodness-sake; and from thence, to love <hi>our Neighbour as our self;</hi> which is directly opposite to <hi>Concupiscence,</hi> or <hi>Self-Love,</hi> the Foun<g ref="char:EOLhyphen"/>tain of all Evil.</p>
+            <p>And such a Religion as this (and no other) will make <hi>good Princes,</hi> and <hi>good People; good Ministers,</hi> and <hi>good Magistrates.</hi>
+            </p>
+            <p>This is such a Religion alone, as will inspire our <hi>Councils</hi> with <hi>true Wisdom,</hi> and our <hi>Armies</hi> with <hi>true Courage,</hi> and <hi>good Conduct;</hi> and unite us all, as <hi>Christian Brethren, Members</hi> of one <hi>mystical Body,</hi> and of one <hi>National Communion,</hi> as best becomes Subjects of <hi>one Kingdom;</hi> so as to be at one within our selves, by preventing all <hi>home-bred Divisions,</hi> which will most certainly secure us against all <hi>Foreign Force;</hi> when with Comfort we may truly say, <hi>God being with us, who can be against us.</hi>
+            </p>
+            <p>And now I appeal to all impartial Christians, of what Persuasion soever, that have so examined and tried, as to be competent and capable Judges of Truth herein, Whether any <hi>established Religion</hi> on the Face of the whole Earth comes so near this Standard, as that of <hi>our National Church.</hi>
+            </p>
+            <p>O blessed and happy forty four Years Reign of that <hi>Maiden Queen,</hi> in <hi>Piety, Sobriety,</hi> and <hi>Righteous Dealing</hi> one towards another, in <hi>Harmony</hi> of Hearts, and <hi>Divine Worship,</hi> without the least <hi>Blending,</hi> or <hi>Mixture</hi> of any other <hi>way of Worship, Discipline,</hi> or <hi>Teacher,</hi> but what was so ordained, setled, and established from the Standard of the holy Scriptures, in this our <hi>National Church,</hi> by those <hi>pious Foun<g ref="char:EOLhyphen"/>ders,</hi> and <hi>holy Martyrs,</hi> our triumphant <hi>Witnesses, now with God.</hi>
+            </p>
+            <p>
+               <hi>And last of all,</hi> to the end these my <hi>weak Endeavours</hi> may prove successful, I shall close the <hi>Lay-man's Religion</hi> with one <hi>Prayer</hi> con<g ref="char:EOLhyphen"/>tained in our <hi>Liturgy,</hi> and a few brief Paragraphs out of the <hi>Litany</hi> of our <hi>established Discipline,</hi> as a farther part of that Standard, so suited to all Capacities, that all may see our Charity extended to the whole Race of Mankind, without partial Regard, either to <hi>pecu<g ref="char:EOLhyphen"/>liar Inclosures,</hi> or <hi>Exclusion</hi> of any. And so I do most humbly beg all that love and fear God, (as they cast their Eye with an impartial
+<pb n="31" facs="tcp:56254:18"/> Mind on these Lines) to joyn with me in humble Prayer to Almighty God herein:
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <p>
+                              <hi>O</hi> God, the Creator and Preserver of all Mankind; We humbly be<g ref="char:EOLhyphen"/>seech thee for all Sorts and Conditions of Men, That thou wouldst be pleased to make thy Ways known unto them, thy Saving Health unto all Nations: More especially we pray for the good Estate of the Catholick Church, That it may be so guided and governed by thy good Spirit, that all who profess and call themselves Christians, may be led into the way of Truth; and hold the Faith in Ʋnity of Spirit, in the Bond of Peace, and Righteousness of Life. Finally, We commend to the Fatherly Goodness all those who are any ways afflicted or distressed in Mind, Body, or E<g ref="char:EOLhyphen"/>state; That it may please thee to comfort and relieve them according to their several Necessities, giving them Patience under their Sufferings, and an happy Issue out of all their Afflictions. And this we beg for Jesus Christ his sake.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>Against <hi>Worldly Design</hi> and <hi>Debauchery,</hi> the Sin of the <hi>Pro<g ref="char:EOLhyphen"/>fessor</hi> and the <hi>Profane,</hi> as the two Extreams that poison and choke all <hi>Religion</hi> and <hi>Morality.</hi>
+                        </head>
+                        <p>
+                           <hi>FRom all</hi> Blindness of Heart: <hi>From</hi> Pride, Vain Glory, <hi>and</hi> Hypocri<g ref="char:EOLhyphen"/>sie: <hi>From</hi> Envy, Hatred, Malice, <hi>and all</hi> Ʋncharitableness.</p>
+                        <p>
+                           <hi>From</hi> Fornication, <hi>and all other</hi> deadly Sin: <hi>From all the Deceipts of the</hi> World, <hi>the</hi> Flesh, <hi>and the</hi> Devil.</p>
+                        <p>
+                           <hi>From all</hi> Sedition, Privy Conspiracy, <hi>and</hi> Rebellion; <hi>From all</hi> False Doctrine, Heresie, <hi>and</hi> Schism: <hi>From</hi> Hardness of Heart, <hi>and</hi> Con<g ref="char:EOLhyphen"/>tempt <hi>of thy</hi> World <hi>and</hi> Commandment,</p>
+                        <closer>Good Lord deliver us.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>For Universal Peace and Charity; and for Grace, and Gui<g ref="char:EOLhyphen"/>dance of God's Spirit, that we may serve him acceptably, with Reverence, and Godly Fear.</head>
+                        <p>THat it may please thee to give all Nations <hi>Ʋnity, Peace,</hi> and <hi>Concord.</hi>
+                        </p>
+                        <p>That it may please thee to give thy People <hi>Increase</hi> of <hi>Grace,</hi> to <hi>hear meekly thy Word,</hi> and to receive it with <hi>pure Affection,</hi> and to bring forth <hi>the Fruits of the Spirit.</hi>
+                        </p>
+                        <pb n="32" facs="tcp:56254:19"/>
+                        <p>That it may please thee to bring into <hi>the Way of Truth</hi> all such as have <hi>erred,</hi> and are <hi>deceived.</hi>
+                        </p>
+                        <p>That it may please thee to <hi>forgive</hi> our <hi>Enemies, Persecutors</hi> and <hi>Slanderers,</hi> and to turn their Hearts.</p>
+                        <p>That it may please thee to give us <hi>true Repentance,</hi> to forgive us all our <hi>Sins, Negligences,</hi> and <hi>Ignorances;</hi> and to endue us with the <hi>Grace</hi> of thy <hi>Holy Spirit,</hi> to amend our Lives according to thy <hi>holy Word.</hi>
+                        </p>
+                        <closer>We beseech thee to hear us, good Lord.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div n="1" type="item">
+               <head>
+                  <hi>To conclude:</hi> The ill Management of our Tongue, or the bad Husbandry of our Time, will render the best Religion vain.</head>
+               <head type="sub">A Word briefly of Each: And First, Of the Tongue.</head>
+               <p>
+                  <hi>I</hi> Must add one Ingredient more, as a principal Part of the <hi>Layman's Religion;</hi> without which, all External Profession of Religion is but a <hi>Shadow:</hi> For which I have a very good Authority; <hi>If any Man among you seem to be religious, and bridleth not his Tongue, he deceiveth his own Heart, and that Man's Religion is vain,</hi> Jam. <hi>1.26.</hi>
+               </p>
+               <p>The <hi>Tongue</hi> is Man's <hi>peculiar Glory,</hi> and was originally designed to enable him to praise God, and benefit Mankind; as we find it exemplified in the Man after-God's own Heart: <hi>Awake up my Glory: I will give Thanks unto thee, O Lord, among the People, I will sing unto thee among the Nations; so will I teach Transgressors thy Ways, and Sinners shall be converted to thee.</hi> This is the just Inference of the Son of <hi>Syrach,</hi> in <hi>Eccles. The Lord hath given me a Tongue, and I will praise him therewith.</hi>
+               </p>
+               <p>And as God designed in Creation, every thing should answer <hi>the End of its Being,</hi> so we have here an infallible Test to try all our <hi>Words</hi> and <hi>Discourses:</hi> And we may be assured, whatever part will not answer one of these two primitive Ends of Speech, either to glorifie God, or benefit Mankind, will not hold weight in the Balance of the Sanctuary.</p>
+               <p>Therefore let as to Day (even from this moment) hear his Voice, and no more harden our Hearts herein. God hath placed in every Man an in<g ref="char:EOLhyphen"/>ward Check, as a Rein upon his Tongue; though too many wise and sober Men frequently wound themselves by their too ready compliance with others (as Opportunity offers) to barter Vice and Folly herein. How often have
+<pb n="33" facs="tcp:56254:19"/> they forc'd themselves against this inward Caution; either to fabricate, or to relate filthy and frothy, if not obscene, or profane Stories, Jests or Squibs, to obtain the Honour of a Fool in the Play, by diverting and pleasing the sinful and easie Inclination of others, in that which is not only barren and unprofitable, but oftentimes sinful and offensive to tender and chaste Organs; and ends, at last, in some overt sinful Act. How excel<g ref="char:EOLhyphen"/>lent Advice have we from the Apostle, to shun this great Evil, <hi>Eph. 4.29. Let no corrupt Communication proceed out of your Mouth, but that which is good, to the use of edifying, that it may administer Grace to the Hearers: And grieve not the holy Spirit of God, whereby we are sealed to the Day of Redemption.</hi>
+               </p>
+               <p>The prudent Management of the Tongue, hath in all Ages been ac<g ref="char:EOLhyphen"/>counted the most excellent Part of humane Perfection: And herein St. <hi>James</hi> seems to allow Perfection in this Life. <hi>If any man offend not in word, the same is a perfect man, and able also to bridle the whole Body.</hi>
+               </p>
+               <p>But how degenerate is the Age we live in? How far short do we come herein of many of the pious Heathen of old, who made the Fruit of this Noble Member of the Tongue the chief part of their Hospitality for enter<g ref="char:EOLhyphen"/>tainment of their best Friends, <hi>in the Communication of the Divine Life,</hi> as more suitable Food, and purer Nourishment for their im<g ref="char:EOLhyphen"/>mortal Souls, than to eat and drinks together like Hogs in the same Trough, or Horses in the same Manger.</p>
+               <p>I may adventure to speak it, (though it be a hard Saying,) if we should measure God's Friends (by this Standard) in mens Words and Discourses in Conversation, the Devil will have Twenty for One that appears on God's part; which plainly demonstrates that many are <hi>called,</hi> but <hi>few</hi> are <hi>Christians.</hi>
+               </p>
+               <p>I pray God all that read this Paper, may seriously consider this great Duty; and tremble to think of the dreadful Account must be made of this great <hi>Talent</hi> of the <hi>Tongue,</hi> to which we owe so much, both of our <hi>spiri<g ref="char:EOLhyphen"/>tual</hi> and our <hi>secular</hi> Advantages; that for the future they may set a strict Watch before the door of their Lips, so as to endeavour all they say may answer one of these two Primitive Ends of Speech, either to <hi>glo<g ref="char:EOLhyphen"/>rifie God,</hi> or <hi>benefit Men.</hi>
+               </p>
+               <p>
+                  <hi>Well might St.</hi> James <hi>say, Life and Death are in the Power of the Tongue,</hi> when the Mouth of Truth it self had before pronounced the Sentence: <hi>By thy Words thou shalt be justified, and by thy Words thou shalt be condemned.</hi>
+               </p>
+               <p>The Tongue is the Helm, by which the Soul of Man steers the whole Course of his Conversation among Men: It is so voluble a Member, that it needs not so much as the flexure of a joint, and often moves without giving us any Warning; and as Children easily set those rolling Engines in Motion, which stronger Men cannot suddenly stop; so when our
+<pb n="34" facs="tcp:56254:20"/> Mind (which is the Pilot of our Tongue) wanders abroad, and leaves this unruly Engine at liberty, our Passions and our Fancies (which are the Childish Parts of our animal Nature) are too apt to set our Tongues into such a loose Carier of Folly and Babling, as our Reason cannot easily restrain it. Therefore <hi>David,</hi> to prevent this great Evil, <hi>said,</hi> Psal. <hi>39. I will take heed to my ways, that I offend not with my Tongue. I will keep my Mouth as with a Bridle, while the Wicked is before me.</hi> And that he might do it effectually, he fixed his Mind at home, in Contemplation of his own frail Mortality; <hi>My Heart was hot within</hi> me, <hi>whilst I was musing</hi> (thus inwardly in<g ref="char:EOLhyphen"/>tent) <hi>the Fire</hi> (vehement thoughtfulness) <hi>burnt within me; then spake I with my Tongue: Lord make me to know mine end, and the measure of my days, what it is,</hi> that <hi>I may know how frail I am.</hi>
+               </p>
+               <p>How can the Tongue be worse employed, or the Speaker rendred more odious, than in railing at, and censuring others, when at the same time he himself may be guilty of that, or worse Crimes, which might have been bu<g ref="char:EOLhyphen"/>ried with him in Silence, had he not thus provoked others to blazon them to the World.</p>
+               <p>
+                  <note place="margin">Qui alterum <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>cusat pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ri, ipsum se <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ntueri opor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>et.</note>But all proceeds from Self-love, in being partial to our selves, and cen<g ref="char:EOLhyphen"/>suring others, before we look home and judge our selves.</p>
+               <p>For though Men may imagine their Words vanish with their Breath which utters them, they may be assured they are all recorded with God, and shall be produced hereafter, as Witnesses for, or against them. Therefore let them carry in their Memory this short Caution to be in all Companies their Monitor.</p>
+               <q>
+                  <l>Remember God hears, and writes down</l>
+                  <l>All things that Men do say;</l>
+                  <l>And every idle Word shall be</l>
+                  <l>Accounted for one Day.</l>
+               </q>
+            </div>
+            <div n="2" type="item">
+               <head>Of the right Improvement of <hi>Time;</hi> or, the great Evil of Procrastination, or deferring our Duty.</head>
+               <argument>
+                  <p>Many are gone to their Place, with a too late <hi>Repentance,</hi> though they daily renewed their <hi>good Purposes.</hi> To the end therefore those that remain, may no longer harden their Hearts, but <hi>While it is called to day,</hi> may (by a better Obedience) <hi>hear his
+<pb n="35" facs="tcp:56254:20"/> Voice,</hi> I shall conclude with a <hi>brief Discourse of the great Evil and Folly of</hi> Procrastination; <hi>or deferring our Duty from the present (which is our certain) to a future uncertain Season:</hi> The putting off this Day's Work till to Morrow. <hi>This, like subtile Poison, kills insensibly, not perceived, till 'tis incurable.</hi>
+                  </p>
+               </argument>
+               <p>OF all the Follies incident to Man, there is nothing more na<g ref="char:EOLhyphen"/>tural, or more destructive to him, than to defer the present opportunity of doing what he should do, either out of a lazy indulgence to sloth, or with a design of doing that which is less profitable, or perhaps really injurious to himself or others; so stupid and inconsiderate, as if the heaviest load were most easie to carry, when the Body is most indisposed. The Work of Life is appointed us at our entrance, and no part of our time our own; so that when we leave the least Duty undone to day, the best we can hope for (if we live) is to double our diligence to morrow; <hi>Hodiè operanti, cràs levius opus.</hi> Time is so precious, that the loss of the least moment can never be recovered: All that can be done towards it, is to spend what is to come better. This Life is wholly in order to another; and <hi>Time</hi> is the sole opportunity <hi>God</hi> hath gi<g ref="char:EOLhyphen"/>ven us, for transacting the great business of Eternity. Our Work is great, and our <hi>Day of working</hi> short; much of which also is lost and useless, through the <hi>Ignorance and Inadvertency of Youth,</hi> and the <hi>Diseases</hi> and <hi>Infirmities</hi> of <hi>Old Age.</hi> Our Portion of Time is not only short, as to its duration; but also uncertain in the pos<g ref="char:EOLhyphen"/>session. The loss of it is irreparable to the Loser, and profitable to no body else; it shall be severely accounted for at the great day of Judgment. Then certainly if such a thing as the Philosoper's Stone may be found, it consists in giving <hi>Time</hi> and <hi>Season,</hi> as well as other Creatures their due, and doing every Day's Work within it's com<g ref="char:EOLhyphen"/>pass, (which the best find but short to do it well,) and not put off any part of this Day's Duty till to Morrow; which hath al<g ref="char:EOLhyphen"/>ready the proper Work of it self, appointed by him whose Day it is. We cannot know (the least moment before) what additional Task our Lord may appoint to Morrow; which may be such as may require our utmost capacity. <hi>Sufficient for the day is the Evil thereof,</hi> in all its Circumstances. The present Instant alone is ours; our Health and Strength may fail, as well as Opportunity; but our corrupt Inclinations are too apt to increase; so as to morrow we may be less disposed to our Duty, and too apt again to put off till another Morrow: Nay, we may never have a Day more to work; or be rendred uncapable of working more. <hi>Qui non est hodiè, cra<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> minus aptus erit.</hi>
+               </p>
+               <pb n="36" facs="tcp:56254:21"/>
+               <p>I cannot have a better Tutor than the <hi>Roman Perseus,</hi> instructed by Natures Light, on this Subject; though it is a shame so many who pretend to be Leaders of the Blind in Gospel-Light should come so far short of what he taught in the practice of his known Duty.</p>
+               <q>
+                  <lg>
+                     <l>Cras hoc fiet; idem cras fiet: quid? quasi magnum</l>
+                     <l>Nempe diem donas? <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <q>
+                  <lg>
+                     <l>To Morrow we'll do this: Alas, you'll do</l>
+                     <l>The same to Morrow, Why ask we of you</l>
+                     <l>So much? To wit, One only Day; but when</l>
+                     <l>The Third Day comes, we have consumed then</l>
+                     <l>To Morrow, Yesterday; and thus to borrow</l>
+                     <l>Of time, though yet to come, still on to Morrow,</l>
+                     <l>Will secretly drive out our time at last,</l>
+                     <l>When ev'ry Day, a new Day will be past,</l>
+                     <l>Never to be recall'd; for thou, O Wheel!</l>
+                     <l>Which dost about the second Axle reel</l>
+                     <l>Hind-most may'st strive in vain for to o'retake</l>
+                     <l>The fore-most turning forward, which doth make</l>
+                     <l>Like haste, with equal speed, although thou be</l>
+                     <l>Hard by it plac'd, under the self-same Tree,</l>
+                  </lg>
+               </q>
+               <closer>
+                  <dateline>
+                     <date>12<seg rend="sup">o</seg> Die Martii, Anno Libertatis, Gratiâ speciali mihi abundante, restitutae, 10.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="37" facs="tcp:56254:21"/>
+            <head>POST-SCRIPT.</head>
+            <p>IT might have been expected from such a Title as <hi>The Lay-man's Religion,</hi> that I should have begun with some Preface, by way of Apology, for presuming to treat of any thing sacred: Therefore as I have already propounded my end, and shall leave what I have written, to shew Cause why; so it becomes me here in the close, to tell the World more plainly what hath induced me hereunto, and my Design therein.</p>
+            <p>In the first place, I do most humbly acknowledge my own Incapa<g ref="char:EOLhyphen"/>city, to trace many things in this small Treatise to their Original: And that whatsoever I have thus composed and published, relating to the Doctrine and Principles of Religion, or Man's Duty, is no more mine, than as I have collected, digested, and registred it in my own Mind, from the Works and Labours of pious and learned Men, who prepared, and handed it down to me and others, for the common Good of Mankind. Wherein I have forborn to quote the Authors Names, whose Words and Sense I have so made use of, to the end, wholesome Truth (which sufficiently commends it self to a Mind well qualified) may not be less welcome to an impartial Rea<g ref="char:EOLhyphen"/>der, though conveyed down by Men of different Persuasions, which hath been the Fate of many excellent Treatises, among such as are too apt to have Men's <hi>Persons,</hi> rather than their real worth <hi>in admi<g ref="char:EOLhyphen"/>ration;</hi> not considering, that the most refined are but <hi>earthen Vessels,</hi> when the <hi>Treasure</hi> is (in all) still the same.</p>
+            <p>When I beheld (to my great Grief,) the generality of Dissenters, though scarce acquainted with the Fundamental Truths of Christia<g ref="char:EOLhyphen"/>nity, and having no more knowledge of the Doctrine and Discipline of our Church, than from the false and malicious Reports of our E<g ref="char:EOLhyphen"/>nemies; yet puffed up with an high conceipt of the excellency of their own Way; and wilfully tenacious every one in their own seve<g ref="char:EOLhyphen"/>ral Persuasion; and so prepossessed with prejudice against this our established Religion, that they were so far from reading, that they rather despised all that hath been written, in Tenderness and Love for their instruction, by the most reverend and learned Clergy of our Church; saying, It was only done to promote their own Trade and Interest; I could no longer bear with such Affronts and Indignities, to be openly cast upon Truth it self, lest I might by my silence be<g ref="char:EOLhyphen"/>come
+<pb n="38" facs="tcp:56254:22"/> guilty of that, which I did not endeavour (as much as in me lay,) to hinder.</p>
+            <p>And therefore, in obedience to the Dictate of my own Conscience, having with an impartial Mind searched into the Truth of all, so as to he rightly informed, and fully persuaded in my Mind; (neither imposed upon, or influenced by any Party;) I judged my self un<g ref="char:EOLhyphen"/>der the highest Obligation to God and Man, as a proper Witness for Truth, to publish to all the World, what God hath been graci<g ref="char:EOLhyphen"/>ously pleased thus to make known to me: Solemnly appealing to the Searcher of all hearts, 'tis done, to the best of my Understanding, Knowledge, and Belief, purely for discovery of Truth, and for the Good of Men's Souls in all Persuasions.</p>
+            <p>And as my whole Design herein hath been; so it shall be my hear<g ref="char:EOLhyphen"/>ty Prayers and Endeavours to stem the Tide of Debauchery and Im<g ref="char:EOLhyphen"/>morality, which threatens universal Desolation to the present Age, and Ruine to Posterity; and (as the best means to effect that) to promote Charity, and Brotherly Kindness among all that make Profession of Christianity; that they may so live and act, as to keep their Conscience void of Offence towards God and towards Man; the only <hi>Medium</hi> to render Religion amiable, thereby to promote, and restore that Harmony in Divine Worship, which, for so many Years, rendred our Nation the <hi>Goshen</hi> of the whole Earth; a Bles<g ref="char:EOLhyphen"/>sing (if well understood) most desirable in all Nations.</p>
+            <q>
+               <lg>
+                  <l>
+                     <note place="margin">Waller.</note>Could we forbear Disputes, and practise <hi>Love,</hi>
+                  </l>
+                  <l>We should agree as Angels do above.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Self-Love</hi> would cease, or be dilated, when</l>
+                  <l>We should behold as many <hi>Selfs</hi> as Men:</l>
+                  <l>All of one Family <hi>in Blood ally'd,</hi>
+                  </l>
+                  <l>
+                     <hi>His precious Blood,</hi> that for our Ransome dy'd.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Love</hi> as he <hi>lov'd,</hi> who left his Glorious Seat,</l>
+                  <l>To make us <hi>humble,</hi> and to make us great:</l>
+                  <l>This <hi>Iron Age,</hi> so fraudulent and bold,</l>
+                  <l>Touch'd with this <hi>Love,</hi> would be an Age of <hi>Gold.</hi>
+                  </l>
+               </lg>
+            </q>
+         </div>
+         <trailer>
+            <hi>The End of the First Part.</hi>
+            <pb facs="tcp:56254:22"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
